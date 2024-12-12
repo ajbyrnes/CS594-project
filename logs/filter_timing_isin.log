@@ -1,0 +1,3381 @@
+Using data: data/test_set_batch1.csv
+Using rows: 1000
+1000 rows, 10 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 505700.00 ns
+1000 rows, 10 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 431300.00 ns
+1000 rows, 10 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 413700.00 ns
+1000 rows, 10 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 423500.00 ns
+1000 rows, 10 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 395300.00 ns
+
+END SKETCH
+
+1000 rows, 10 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 381000.00 ns
+1000 rows, 10 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 362700.00 ns
+1000 rows, 10 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 556400.00 ns
+1000 rows, 10 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 386400.00 ns
+1000 rows, 10 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 351800.00 ns
+
+END SKETCH
+
+1000 rows, 10 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 395200.00 ns
+1000 rows, 10 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 374900.00 ns
+1000 rows, 10 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 360800.00 ns
+1000 rows, 10 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 357300.00 ns
+1000 rows, 10 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 451300.00 ns
+
+END SKETCH
+
+1000 rows, 10 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 387200.00 ns
+1000 rows, 10 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 358100.00 ns
+1000 rows, 10 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 532700.00 ns
+1000 rows, 10 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 422200.00 ns
+1000 rows, 10 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 436500.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+1000 rows, 10 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 483200.00 ns
+1000 rows, 10 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 353000.00 ns
+1000 rows, 10 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 340900.00 ns
+1000 rows, 10 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 341500.00 ns
+1000 rows, 10 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 345800.00 ns
+
+END SKETCH
+
+1000 rows, 10 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 358900.00 ns
+1000 rows, 10 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 356800.00 ns
+1000 rows, 10 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 349000.00 ns
+1000 rows, 10 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 348000.00 ns
+1000 rows, 10 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 349600.00 ns
+
+END SKETCH
+
+1000 rows, 10 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 357600.00 ns
+1000 rows, 10 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 355900.00 ns
+1000 rows, 10 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 354200.00 ns
+1000 rows, 10 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 357600.00 ns
+1000 rows, 10 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 403400.00 ns
+
+END SKETCH
+
+1000 rows, 10 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 378000.00 ns
+1000 rows, 10 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 427700.00 ns
+1000 rows, 10 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 425600.00 ns
+1000 rows, 10 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 414800.00 ns
+1000 rows, 10 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 384500.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+1000 rows, 10 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 420000.00 ns
+1000 rows, 10 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 345800.00 ns
+1000 rows, 10 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 332700.00 ns
+1000 rows, 10 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 329500.00 ns
+1000 rows, 10 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 336800.00 ns
+
+END SKETCH
+
+1000 rows, 10 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 369000.00 ns
+1000 rows, 10 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 364300.00 ns
+1000 rows, 10 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 356000.00 ns
+1000 rows, 10 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 398700.00 ns
+1000 rows, 10 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 348800.00 ns
+
+END SKETCH
+
+1000 rows, 10 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 396400.00 ns
+1000 rows, 10 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 351800.00 ns
+1000 rows, 10 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 363000.00 ns
+1000 rows, 10 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 362100.00 ns
+1000 rows, 10 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 351700.00 ns
+
+END SKETCH
+
+1000 rows, 10 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 402000.00 ns
+1000 rows, 10 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 525700.00 ns
+1000 rows, 10 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 579300.00 ns
+1000 rows, 10 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 421000.00 ns
+1000 rows, 10 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 376100.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+1000 rows, 100 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 417300.00 ns
+1000 rows, 100 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 351600.00 ns
+1000 rows, 100 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 339000.00 ns
+1000 rows, 100 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 337600.00 ns
+1000 rows, 100 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 340600.00 ns
+
+END SKETCH
+
+1000 rows, 100 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 370000.00 ns
+1000 rows, 100 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 372300.00 ns
+1000 rows, 100 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 377400.00 ns
+1000 rows, 100 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 346399.00 ns
+1000 rows, 100 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 342000.00 ns
+
+END SKETCH
+
+1000 rows, 100 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 369100.00 ns
+1000 rows, 100 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 359100.00 ns
+1000 rows, 100 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 340900.00 ns
+1000 rows, 100 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 344100.00 ns
+1000 rows, 100 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 358400.00 ns
+
+END SKETCH
+
+1000 rows, 100 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 365000.00 ns
+1000 rows, 100 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 364200.00 ns
+1000 rows, 100 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 344800.00 ns
+1000 rows, 100 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 348400.00 ns
+1000 rows, 100 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 360500.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+1000 rows, 100 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 383600.00 ns
+1000 rows, 100 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 384700.00 ns
+1000 rows, 100 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 378700.00 ns
+1000 rows, 100 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 346000.00 ns
+1000 rows, 100 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 347700.00 ns
+
+END SKETCH
+
+1000 rows, 100 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 348600.00 ns
+1000 rows, 100 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 341400.00 ns
+1000 rows, 100 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 335600.00 ns
+1000 rows, 100 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 339200.00 ns
+1000 rows, 100 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 356500.00 ns
+
+END SKETCH
+
+1000 rows, 100 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 349900.00 ns
+1000 rows, 100 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 347300.00 ns
+1000 rows, 100 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 342300.00 ns
+1000 rows, 100 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 341000.00 ns
+1000 rows, 100 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 334700.00 ns
+
+END SKETCH
+
+1000 rows, 100 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 350000.00 ns
+1000 rows, 100 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 351600.00 ns
+1000 rows, 100 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 345100.00 ns
+1000 rows, 100 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 344600.00 ns
+1000 rows, 100 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 354700.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+1000 rows, 100 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 349800.00 ns
+1000 rows, 100 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 330700.00 ns
+1000 rows, 100 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 332100.00 ns
+1000 rows, 100 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 329500.00 ns
+1000 rows, 100 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 323400.00 ns
+
+END SKETCH
+
+1000 rows, 100 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 562000.00 ns
+1000 rows, 100 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 515800.00 ns
+1000 rows, 100 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 392800.00 ns
+1000 rows, 100 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 349400.00 ns
+1000 rows, 100 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 353100.00 ns
+
+END SKETCH
+
+1000 rows, 100 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 377900.00 ns
+1000 rows, 100 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 354500.00 ns
+1000 rows, 100 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 388800.00 ns
+1000 rows, 100 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 421000.00 ns
+1000 rows, 100 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 352500.00 ns
+
+END SKETCH
+
+1000 rows, 100 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 544800.00 ns
+1000 rows, 100 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 514000.00 ns
+1000 rows, 100 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 478800.00 ns
+1000 rows, 100 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 474900.00 ns
+1000 rows, 100 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 462700.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+
+END ROW
+
+Using rows: 10000
+10000 rows, 10 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 494500.00 ns
+10000 rows, 10 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 461800.00 ns
+10000 rows, 10 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 433500.00 ns
+10000 rows, 10 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 432300.00 ns
+10000 rows, 10 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 430200.00 ns
+
+END SKETCH
+
+10000 rows, 10 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 477200.00 ns
+10000 rows, 10 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 477900.00 ns
+10000 rows, 10 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 498200.00 ns
+10000 rows, 10 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 505300.00 ns
+10000 rows, 10 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 508000.00 ns
+
+END SKETCH
+
+10000 rows, 10 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 554400.00 ns
+10000 rows, 10 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 539200.00 ns
+10000 rows, 10 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 570500.00 ns
+10000 rows, 10 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 560100.00 ns
+10000 rows, 10 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 575500.00 ns
+
+END SKETCH
+
+10000 rows, 10 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 601100.00 ns
+10000 rows, 10 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 879500.00 ns
+10000 rows, 10 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 678900.00 ns
+10000 rows, 10 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 763900.00 ns
+10000 rows, 10 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 713500.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+10000 rows, 10 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 506500.00 ns
+10000 rows, 10 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 497900.00 ns
+10000 rows, 10 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 551400.00 ns
+10000 rows, 10 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 532000.00 ns
+10000 rows, 10 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 488300.00 ns
+
+END SKETCH
+
+10000 rows, 10 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 538800.00 ns
+10000 rows, 10 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 488700.00 ns
+10000 rows, 10 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 558600.00 ns
+10000 rows, 10 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 514700.00 ns
+10000 rows, 10 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 483800.00 ns
+
+END SKETCH
+
+10000 rows, 10 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 528300.00 ns
+10000 rows, 10 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 564000.00 ns
+10000 rows, 10 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 611400.00 ns
+10000 rows, 10 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 655800.00 ns
+10000 rows, 10 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 618600.00 ns
+
+END SKETCH
+
+10000 rows, 10 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 725200.00 ns
+10000 rows, 10 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 677100.00 ns
+10000 rows, 10 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 639300.00 ns
+10000 rows, 10 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 612000.00 ns
+10000 rows, 10 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 651900.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+10000 rows, 10 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 533200.00 ns
+10000 rows, 10 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 436600.00 ns
+10000 rows, 10 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 428300.00 ns
+10000 rows, 10 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 497400.00 ns
+10000 rows, 10 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 491500.00 ns
+
+END SKETCH
+
+10000 rows, 10 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 519200.00 ns
+10000 rows, 10 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 520800.00 ns
+10000 rows, 10 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 594200.00 ns
+10000 rows, 10 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 563000.00 ns
+10000 rows, 10 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 530600.00 ns
+
+END SKETCH
+
+10000 rows, 10 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 536900.00 ns
+10000 rows, 10 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 539700.00 ns
+10000 rows, 10 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 538300.00 ns
+10000 rows, 10 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 523400.00 ns
+10000 rows, 10 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 525200.00 ns
+
+END SKETCH
+
+10000 rows, 10 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 615000.00 ns
+10000 rows, 10 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 637600.00 ns
+10000 rows, 10 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 647700.00 ns
+10000 rows, 10 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 1044500.00 ns
+10000 rows, 10 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 751000.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+10000 rows, 100 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 413800.00 ns
+10000 rows, 100 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 398800.00 ns
+10000 rows, 100 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 414000.00 ns
+10000 rows, 100 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 414400.00 ns
+10000 rows, 100 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 388300.00 ns
+
+END SKETCH
+
+10000 rows, 100 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 439800.00 ns
+10000 rows, 100 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 615300.00 ns
+10000 rows, 100 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 449200.00 ns
+10000 rows, 100 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 476600.00 ns
+10000 rows, 100 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 423400.00 ns
+
+END SKETCH
+
+10000 rows, 100 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 488500.00 ns
+10000 rows, 100 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 472200.00 ns
+10000 rows, 100 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 470000.00 ns
+10000 rows, 100 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 490300.00 ns
+10000 rows, 100 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 455500.00 ns
+
+END SKETCH
+
+10000 rows, 100 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 482000.00 ns
+10000 rows, 100 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 490200.00 ns
+10000 rows, 100 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 474700.00 ns
+10000 rows, 100 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 512300.00 ns
+10000 rows, 100 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 661500.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+10000 rows, 100 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 497500.00 ns
+10000 rows, 100 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 501500.00 ns
+10000 rows, 100 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 455600.00 ns
+10000 rows, 100 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 445600.00 ns
+10000 rows, 100 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 445400.00 ns
+
+END SKETCH
+
+10000 rows, 100 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 473900.00 ns
+10000 rows, 100 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 448000.00 ns
+10000 rows, 100 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 446900.00 ns
+10000 rows, 100 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 468900.00 ns
+10000 rows, 100 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 461700.00 ns
+
+END SKETCH
+
+10000 rows, 100 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 474300.00 ns
+10000 rows, 100 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 471800.00 ns
+10000 rows, 100 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 460000.00 ns
+10000 rows, 100 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 460200.00 ns
+10000 rows, 100 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 479300.00 ns
+
+END SKETCH
+
+10000 rows, 100 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 496500.00 ns
+10000 rows, 100 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 478900.00 ns
+10000 rows, 100 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 505400.00 ns
+10000 rows, 100 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 484700.00 ns
+10000 rows, 100 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 478500.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+10000 rows, 100 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 398000.00 ns
+10000 rows, 100 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 363800.00 ns
+10000 rows, 100 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 365200.00 ns
+10000 rows, 100 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 368900.00 ns
+10000 rows, 100 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 368600.00 ns
+
+END SKETCH
+
+10000 rows, 100 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 480400.00 ns
+10000 rows, 100 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 494200.00 ns
+10000 rows, 100 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 442600.00 ns
+10000 rows, 100 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 475500.00 ns
+10000 rows, 100 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 454200.00 ns
+
+END SKETCH
+
+10000 rows, 100 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 493400.00 ns
+10000 rows, 100 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 496900.00 ns
+10000 rows, 100 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 552300.00 ns
+10000 rows, 100 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 470000.00 ns
+10000 rows, 100 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 454700.00 ns
+
+END SKETCH
+
+10000 rows, 100 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 539600.00 ns
+10000 rows, 100 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 509000.00 ns
+10000 rows, 100 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 493400.00 ns
+10000 rows, 100 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 468400.00 ns
+10000 rows, 100 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 490400.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+10000 rows, 1000 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 430100.00 ns
+10000 rows, 1000 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 382400.00 ns
+10000 rows, 1000 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 401100.00 ns
+10000 rows, 1000 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 378400.00 ns
+10000 rows, 1000 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 380300.00 ns
+
+END SKETCH
+
+10000 rows, 1000 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 421200.00 ns
+10000 rows, 1000 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 466300.00 ns
+10000 rows, 1000 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 493100.00 ns
+10000 rows, 1000 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 470100.00 ns
+10000 rows, 1000 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 424500.00 ns
+
+END SKETCH
+
+10000 rows, 1000 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 457100.00 ns
+10000 rows, 1000 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 550300.00 ns
+10000 rows, 1000 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 461199.00 ns
+10000 rows, 1000 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 523500.00 ns
+10000 rows, 1000 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 507200.00 ns
+
+END SKETCH
+
+10000 rows, 1000 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 669100.00 ns
+10000 rows, 1000 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 975000.00 ns
+10000 rows, 1000 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 599500.00 ns
+10000 rows, 1000 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 460800.00 ns
+10000 rows, 1000 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 437200.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+10000 rows, 1000 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 471400.00 ns
+10000 rows, 1000 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 425100.00 ns
+10000 rows, 1000 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 382300.00 ns
+10000 rows, 1000 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 405500.00 ns
+10000 rows, 1000 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 617500.00 ns
+
+END SKETCH
+
+10000 rows, 1000 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 752400.00 ns
+10000 rows, 1000 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 650600.00 ns
+10000 rows, 1000 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 525500.00 ns
+10000 rows, 1000 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 429600.00 ns
+10000 rows, 1000 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 445700.00 ns
+
+END SKETCH
+
+10000 rows, 1000 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 473300.00 ns
+10000 rows, 1000 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 470600.00 ns
+10000 rows, 1000 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 442400.00 ns
+10000 rows, 1000 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 505800.00 ns
+10000 rows, 1000 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 431200.00 ns
+
+END SKETCH
+
+10000 rows, 1000 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 550000.00 ns
+10000 rows, 1000 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 479200.00 ns
+10000 rows, 1000 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 540600.00 ns
+10000 rows, 1000 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 522900.00 ns
+10000 rows, 1000 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 458600.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+10000 rows, 1000 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 554100.00 ns
+10000 rows, 1000 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 386700.00 ns
+10000 rows, 1000 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 354700.00 ns
+10000 rows, 1000 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 428900.00 ns
+10000 rows, 1000 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 349500.00 ns
+
+END SKETCH
+
+10000 rows, 1000 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 556300.00 ns
+10000 rows, 1000 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 446000.00 ns
+10000 rows, 1000 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 506900.00 ns
+10000 rows, 1000 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 459700.00 ns
+10000 rows, 1000 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 435500.00 ns
+
+END SKETCH
+
+10000 rows, 1000 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 440900.00 ns
+10000 rows, 1000 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 419000.00 ns
+10000 rows, 1000 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 496000.00 ns
+10000 rows, 1000 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 417900.00 ns
+10000 rows, 1000 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 472700.00 ns
+
+END SKETCH
+
+10000 rows, 1000 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 445900.00 ns
+10000 rows, 1000 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 471900.00 ns
+10000 rows, 1000 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 464300.00 ns
+10000 rows, 1000 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 440600.00 ns
+10000 rows, 1000 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 482200.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+
+END ROW
+
+Using rows: 100000
+100000 rows, 10 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 1482900.00 ns
+100000 rows, 10 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 1446599.00 ns
+100000 rows, 10 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 1496400.00 ns
+100000 rows, 10 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 1422100.00 ns
+100000 rows, 10 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 1629400.00 ns
+
+END SKETCH
+
+100000 rows, 10 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 1891400.00 ns
+100000 rows, 10 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 1909300.00 ns
+100000 rows, 10 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 1939000.00 ns
+100000 rows, 10 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 2100600.00 ns
+100000 rows, 10 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 2011100.00 ns
+
+END SKETCH
+
+100000 rows, 10 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 2259400.00 ns
+100000 rows, 10 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 2313100.00 ns
+100000 rows, 10 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 2334600.00 ns
+100000 rows, 10 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 2221100.00 ns
+100000 rows, 10 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 2148900.00 ns
+
+END SKETCH
+
+100000 rows, 10 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 3012300.00 ns
+100000 rows, 10 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 3301299.00 ns
+100000 rows, 10 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 4029400.00 ns
+100000 rows, 10 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 3135200.00 ns
+100000 rows, 10 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 3176600.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+100000 rows, 10 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 1531600.00 ns
+100000 rows, 10 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 1579700.00 ns
+100000 rows, 10 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 1472600.00 ns
+100000 rows, 10 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 1914500.00 ns
+100000 rows, 10 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 1901000.00 ns
+
+END SKETCH
+
+100000 rows, 10 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 1804300.00 ns
+100000 rows, 10 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 1799600.00 ns
+100000 rows, 10 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 1771700.00 ns
+100000 rows, 10 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 1823400.00 ns
+100000 rows, 10 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 2109500.00 ns
+
+END SKETCH
+
+100000 rows, 10 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 2591300.00 ns
+100000 rows, 10 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 2301999.00 ns
+100000 rows, 10 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 2169500.00 ns
+100000 rows, 10 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 2206800.00 ns
+100000 rows, 10 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 2151900.00 ns
+
+END SKETCH
+
+100000 rows, 10 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 3090300.00 ns
+100000 rows, 10 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 3507800.00 ns
+100000 rows, 10 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 3020000.00 ns
+100000 rows, 10 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 3022300.00 ns
+100000 rows, 10 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 3037300.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+100000 rows, 10 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 1401700.00 ns
+100000 rows, 10 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 1422200.00 ns
+100000 rows, 10 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 1637000.00 ns
+100000 rows, 10 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 1584000.00 ns
+100000 rows, 10 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 1574000.00 ns
+
+END SKETCH
+
+100000 rows, 10 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 2096100.00 ns
+100000 rows, 10 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 2032699.00 ns
+100000 rows, 10 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 2010600.00 ns
+100000 rows, 10 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 2100400.00 ns
+100000 rows, 10 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 1991200.00 ns
+
+END SKETCH
+
+100000 rows, 10 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 2226000.00 ns
+100000 rows, 10 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 2120600.00 ns
+100000 rows, 10 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 1920500.00 ns
+100000 rows, 10 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 1876400.00 ns
+100000 rows, 10 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 1971900.00 ns
+
+END SKETCH
+
+100000 rows, 10 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 2897400.00 ns
+100000 rows, 10 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 3288400.00 ns
+100000 rows, 10 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 3410700.00 ns
+100000 rows, 10 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 3259400.00 ns
+100000 rows, 10 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 2911999.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+100000 rows, 100 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 1012100.00 ns
+100000 rows, 100 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 909100.00 ns
+100000 rows, 100 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 944900.00 ns
+100000 rows, 100 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 859300.00 ns
+100000 rows, 100 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 843900.00 ns
+
+END SKETCH
+
+100000 rows, 100 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 1405200.00 ns
+100000 rows, 100 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 1302800.00 ns
+100000 rows, 100 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 1232800.00 ns
+100000 rows, 100 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 1259400.00 ns
+100000 rows, 100 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 1225900.00 ns
+
+END SKETCH
+
+100000 rows, 100 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 1514000.00 ns
+100000 rows, 100 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 1876700.00 ns
+100000 rows, 100 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 1691500.00 ns
+100000 rows, 100 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 1630300.00 ns
+100000 rows, 100 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 1378600.00 ns
+
+END SKETCH
+
+100000 rows, 100 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 1633100.00 ns
+100000 rows, 100 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 1761999.00 ns
+100000 rows, 100 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 1858400.00 ns
+100000 rows, 100 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 1789100.00 ns
+100000 rows, 100 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 2116900.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+100000 rows, 100 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 1531400.00 ns
+100000 rows, 100 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 1564300.00 ns
+100000 rows, 100 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 1944200.00 ns
+100000 rows, 100 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 1788500.00 ns
+100000 rows, 100 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 1178500.00 ns
+
+END SKETCH
+
+100000 rows, 100 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 1969300.00 ns
+100000 rows, 100 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 1577600.00 ns
+100000 rows, 100 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 1493200.00 ns
+100000 rows, 100 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 1585900.00 ns
+100000 rows, 100 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 1950600.00 ns
+
+END SKETCH
+
+100000 rows, 100 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 1944100.00 ns
+100000 rows, 100 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 1734500.00 ns
+100000 rows, 100 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 1731900.00 ns
+100000 rows, 100 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 1936400.00 ns
+100000 rows, 100 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 1836199.00 ns
+
+END SKETCH
+
+100000 rows, 100 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 1835200.00 ns
+100000 rows, 100 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 2254000.00 ns
+100000 rows, 100 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 2368500.00 ns
+100000 rows, 100 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 2068200.00 ns
+100000 rows, 100 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 1993500.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+100000 rows, 100 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 821600.00 ns
+100000 rows, 100 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 795300.00 ns
+100000 rows, 100 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 810500.00 ns
+100000 rows, 100 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 643500.00 ns
+100000 rows, 100 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 599800.00 ns
+
+END SKETCH
+
+100000 rows, 100 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 1680300.00 ns
+100000 rows, 100 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 1692800.00 ns
+100000 rows, 100 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 1703100.00 ns
+100000 rows, 100 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 1776100.00 ns
+100000 rows, 100 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 1815000.00 ns
+
+END SKETCH
+
+100000 rows, 100 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 1904700.00 ns
+100000 rows, 100 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 2441700.00 ns
+100000 rows, 100 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 1989800.00 ns
+100000 rows, 100 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 2186300.00 ns
+100000 rows, 100 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 2030800.00 ns
+
+END SKETCH
+
+100000 rows, 100 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 1793000.00 ns
+100000 rows, 100 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 1830600.00 ns
+100000 rows, 100 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 1789600.00 ns
+100000 rows, 100 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 1895000.00 ns
+100000 rows, 100 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 1729900.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+100000 rows, 1000 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 942800.00 ns
+100000 rows, 1000 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 849300.00 ns
+100000 rows, 1000 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 805800.00 ns
+100000 rows, 1000 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 795800.00 ns
+100000 rows, 1000 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 797900.00 ns
+
+END SKETCH
+
+100000 rows, 1000 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 1256100.00 ns
+100000 rows, 1000 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 1283700.00 ns
+100000 rows, 1000 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 1404800.00 ns
+100000 rows, 1000 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 1403400.00 ns
+100000 rows, 1000 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 1506300.00 ns
+
+END SKETCH
+
+100000 rows, 1000 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 1628000.00 ns
+100000 rows, 1000 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 1657900.00 ns
+100000 rows, 1000 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 1473100.00 ns
+100000 rows, 1000 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 1472600.00 ns
+100000 rows, 1000 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 1334200.00 ns
+
+END SKETCH
+
+100000 rows, 1000 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 1419100.00 ns
+100000 rows, 1000 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 1324700.00 ns
+100000 rows, 1000 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 1286800.00 ns
+100000 rows, 1000 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 1321200.00 ns
+100000 rows, 1000 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 1248600.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+100000 rows, 1000 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 783699.00 ns
+100000 rows, 1000 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 803400.00 ns
+100000 rows, 1000 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 861400.00 ns
+100000 rows, 1000 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 851600.00 ns
+100000 rows, 1000 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 783300.00 ns
+
+END SKETCH
+
+100000 rows, 1000 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 1226700.00 ns
+100000 rows, 1000 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 1259700.00 ns
+100000 rows, 1000 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 1242500.00 ns
+100000 rows, 1000 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 1166400.00 ns
+100000 rows, 1000 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 1147700.00 ns
+
+END SKETCH
+
+100000 rows, 1000 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 1196300.00 ns
+100000 rows, 1000 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 1185700.00 ns
+100000 rows, 1000 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 1257900.00 ns
+100000 rows, 1000 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 1216200.00 ns
+100000 rows, 1000 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 1191700.00 ns
+
+END SKETCH
+
+100000 rows, 1000 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 1553100.00 ns
+100000 rows, 1000 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 1391300.00 ns
+100000 rows, 1000 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 1290300.00 ns
+100000 rows, 1000 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 1285300.00 ns
+100000 rows, 1000 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 1234500.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+100000 rows, 1000 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 470000.00 ns
+100000 rows, 1000 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 438100.00 ns
+100000 rows, 1000 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 417400.00 ns
+100000 rows, 1000 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 420100.00 ns
+100000 rows, 1000 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 415800.00 ns
+
+END SKETCH
+
+100000 rows, 1000 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 1132500.00 ns
+100000 rows, 1000 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 1119900.00 ns
+100000 rows, 1000 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 1166500.00 ns
+100000 rows, 1000 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 1149200.00 ns
+100000 rows, 1000 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 1242300.00 ns
+
+END SKETCH
+
+100000 rows, 1000 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 1210099.00 ns
+100000 rows, 1000 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 1219200.00 ns
+100000 rows, 1000 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 1175800.00 ns
+100000 rows, 1000 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 1263100.00 ns
+100000 rows, 1000 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 1076800.00 ns
+
+END SKETCH
+
+100000 rows, 1000 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 1366200.00 ns
+100000 rows, 1000 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 1335700.00 ns
+100000 rows, 1000 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 1280400.00 ns
+100000 rows, 1000 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 1289300.00 ns
+100000 rows, 1000 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 1486800.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+100000 rows, 10000 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 813600.00 ns
+100000 rows, 10000 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 790500.00 ns
+100000 rows, 10000 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 747800.00 ns
+100000 rows, 10000 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 750300.00 ns
+100000 rows, 10000 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 749400.00 ns
+
+END SKETCH
+
+100000 rows, 10000 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 1108100.00 ns
+100000 rows, 10000 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 1087700.00 ns
+100000 rows, 10000 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 1236600.00 ns
+100000 rows, 10000 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 1158700.00 ns
+100000 rows, 10000 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 1287600.00 ns
+
+END SKETCH
+
+100000 rows, 10000 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 1221200.00 ns
+100000 rows, 10000 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 1278900.00 ns
+100000 rows, 10000 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 1180900.00 ns
+100000 rows, 10000 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 1176200.00 ns
+100000 rows, 10000 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 1191300.00 ns
+
+END SKETCH
+
+100000 rows, 10000 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 1242600.00 ns
+100000 rows, 10000 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 1188400.00 ns
+100000 rows, 10000 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 1218100.00 ns
+100000 rows, 10000 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 1273600.00 ns
+100000 rows, 10000 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 1233300.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+100000 rows, 10000 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 802900.00 ns
+100000 rows, 10000 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 754100.00 ns
+100000 rows, 10000 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 744600.00 ns
+100000 rows, 10000 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 792900.00 ns
+100000 rows, 10000 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 740400.00 ns
+
+END SKETCH
+
+100000 rows, 10000 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 1064900.00 ns
+100000 rows, 10000 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 1007600.00 ns
+100000 rows, 10000 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 933700.00 ns
+100000 rows, 10000 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 895700.00 ns
+100000 rows, 10000 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 934800.00 ns
+
+END SKETCH
+
+100000 rows, 10000 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 1096400.00 ns
+100000 rows, 10000 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 1154400.00 ns
+100000 rows, 10000 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 1097099.00 ns
+100000 rows, 10000 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 1159300.00 ns
+100000 rows, 10000 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 1161400.00 ns
+
+END SKETCH
+
+100000 rows, 10000 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 1563300.00 ns
+100000 rows, 10000 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 1437800.00 ns
+100000 rows, 10000 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 1375900.00 ns
+100000 rows, 10000 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 1250700.00 ns
+100000 rows, 10000 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 1341700.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+100000 rows, 10000 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 424000.00 ns
+100000 rows, 10000 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 418000.00 ns
+100000 rows, 10000 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 400200.00 ns
+100000 rows, 10000 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 409600.00 ns
+100000 rows, 10000 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 404300.00 ns
+
+END SKETCH
+
+100000 rows, 10000 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 1305300.00 ns
+100000 rows, 10000 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 1267500.00 ns
+100000 rows, 10000 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 1308400.00 ns
+100000 rows, 10000 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 1333900.00 ns
+100000 rows, 10000 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 1337100.00 ns
+
+END SKETCH
+
+100000 rows, 10000 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 865100.00 ns
+100000 rows, 10000 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 885200.00 ns
+100000 rows, 10000 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 799800.00 ns
+100000 rows, 10000 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 799000.00 ns
+100000 rows, 10000 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 817300.00 ns
+
+END SKETCH
+
+100000 rows, 10000 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 800500.00 ns
+100000 rows, 10000 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 835200.00 ns
+100000 rows, 10000 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 1171200.00 ns
+100000 rows, 10000 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 1131900.00 ns
+100000 rows, 10000 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 1047600.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+
+END ROW
+
+Using rows: 1000000
+1000000 rows, 10 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 11817100.00 ns
+1000000 rows, 10 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 10902600.00 ns
+1000000 rows, 10 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 11120399.00 ns
+1000000 rows, 10 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 11535700.00 ns
+1000000 rows, 10 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 10854100.00 ns
+
+END SKETCH
+
+1000000 rows, 10 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 15147999.00 ns
+1000000 rows, 10 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 14738400.00 ns
+1000000 rows, 10 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 14562699.00 ns
+1000000 rows, 10 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 14445600.00 ns
+1000000 rows, 10 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 14890800.00 ns
+
+END SKETCH
+
+1000000 rows, 10 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 20271100.00 ns
+1000000 rows, 10 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 20835099.00 ns
+1000000 rows, 10 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 42885999.00 ns
+1000000 rows, 10 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 21243099.00 ns
+1000000 rows, 10 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 20739100.00 ns
+
+END SKETCH
+
+1000000 rows, 10 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 33196299.00 ns
+1000000 rows, 10 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 33373999.00 ns
+1000000 rows, 10 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 35163499.00 ns
+1000000 rows, 10 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 35157099.00 ns
+1000000 rows, 10 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 35960499.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+1000000 rows, 10 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 11946999.00 ns
+1000000 rows, 10 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 12167200.00 ns
+1000000 rows, 10 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 12292800.00 ns
+1000000 rows, 10 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 11985399.00 ns
+1000000 rows, 10 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 12575900.00 ns
+
+END SKETCH
+
+1000000 rows, 10 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 15363699.00 ns
+1000000 rows, 10 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 14421700.00 ns
+1000000 rows, 10 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 14239600.00 ns
+1000000 rows, 10 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 14789999.00 ns
+1000000 rows, 10 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 15196700.00 ns
+
+END SKETCH
+
+1000000 rows, 10 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 21881199.00 ns
+1000000 rows, 10 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 22550499.00 ns
+1000000 rows, 10 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 20858700.00 ns
+1000000 rows, 10 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 20502099.00 ns
+1000000 rows, 10 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 23320499.00 ns
+
+END SKETCH
+
+1000000 rows, 10 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 42240499.00 ns
+1000000 rows, 10 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 39500399.00 ns
+1000000 rows, 10 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 39736699.00 ns
+1000000 rows, 10 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 31029899.00 ns
+1000000 rows, 10 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 29481299.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+1000000 rows, 10 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 10932500.00 ns
+1000000 rows, 10 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 10721799.00 ns
+1000000 rows, 10 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 10545200.00 ns
+1000000 rows, 10 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 10718300.00 ns
+1000000 rows, 10 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 11344899.00 ns
+
+END SKETCH
+
+1000000 rows, 10 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 16453000.00 ns
+1000000 rows, 10 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 16431999.00 ns
+1000000 rows, 10 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 16657400.00 ns
+1000000 rows, 10 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 18006299.00 ns
+1000000 rows, 10 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 17465900.00 ns
+
+END SKETCH
+
+1000000 rows, 10 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 19461399.00 ns
+1000000 rows, 10 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 19341300.00 ns
+1000000 rows, 10 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 20555899.00 ns
+1000000 rows, 10 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 18291200.00 ns
+1000000 rows, 10 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 18232199.00 ns
+
+END SKETCH
+
+1000000 rows, 10 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 28714899.00 ns
+1000000 rows, 10 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 29219699.00 ns
+1000000 rows, 10 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 29344199.00 ns
+1000000 rows, 10 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 29087400.00 ns
+1000000 rows, 10 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 29287499.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+1000000 rows, 100 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 6308499.00 ns
+1000000 rows, 100 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 6395500.00 ns
+1000000 rows, 100 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 6316800.00 ns
+1000000 rows, 100 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 6567500.00 ns
+1000000 rows, 100 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 7310100.00 ns
+
+END SKETCH
+
+1000000 rows, 100 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 10651299.00 ns
+1000000 rows, 100 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 11012600.00 ns
+1000000 rows, 100 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 10744100.00 ns
+1000000 rows, 100 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 10834499.00 ns
+1000000 rows, 100 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 10573400.00 ns
+
+END SKETCH
+
+1000000 rows, 100 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 12755399.00 ns
+1000000 rows, 100 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 13307300.00 ns
+1000000 rows, 100 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 12693400.00 ns
+1000000 rows, 100 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 12995299.00 ns
+1000000 rows, 100 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 12629800.00 ns
+
+END SKETCH
+
+1000000 rows, 100 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 14565900.00 ns
+1000000 rows, 100 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 14371200.00 ns
+1000000 rows, 100 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 14190400.00 ns
+1000000 rows, 100 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 14248699.00 ns
+1000000 rows, 100 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 14371600.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+1000000 rows, 100 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 7543500.00 ns
+1000000 rows, 100 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 6796999.00 ns
+1000000 rows, 100 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 6551400.00 ns
+1000000 rows, 100 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 6947200.00 ns
+1000000 rows, 100 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 6834200.00 ns
+
+END SKETCH
+
+1000000 rows, 100 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 9181899.00 ns
+1000000 rows, 100 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 9347500.00 ns
+1000000 rows, 100 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 9199900.00 ns
+1000000 rows, 100 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 9178300.00 ns
+1000000 rows, 100 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 9184799.00 ns
+
+END SKETCH
+
+1000000 rows, 100 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 13030400.00 ns
+1000000 rows, 100 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 13199899.00 ns
+1000000 rows, 100 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 14103200.00 ns
+1000000 rows, 100 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 14147600.00 ns
+1000000 rows, 100 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 14480799.00 ns
+
+END SKETCH
+
+1000000 rows, 100 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 16208700.00 ns
+1000000 rows, 100 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 15213499.00 ns
+1000000 rows, 100 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 14764100.00 ns
+1000000 rows, 100 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 14845699.00 ns
+1000000 rows, 100 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 14604200.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+1000000 rows, 100 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 3538000.00 ns
+1000000 rows, 100 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 3171300.00 ns
+1000000 rows, 100 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 2982100.00 ns
+1000000 rows, 100 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 3067199.00 ns
+1000000 rows, 100 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 3231600.00 ns
+
+END SKETCH
+
+1000000 rows, 100 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 12346000.00 ns
+1000000 rows, 100 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 12064000.00 ns
+1000000 rows, 100 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 11924399.00 ns
+1000000 rows, 100 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 12030400.00 ns
+1000000 rows, 100 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 12413200.00 ns
+
+END SKETCH
+
+1000000 rows, 100 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 14582000.00 ns
+1000000 rows, 100 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 13946500.00 ns
+1000000 rows, 100 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 14941499.00 ns
+1000000 rows, 100 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 14108100.00 ns
+1000000 rows, 100 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 14299399.00 ns
+
+END SKETCH
+
+1000000 rows, 100 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 15316700.00 ns
+1000000 rows, 100 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 15313799.00 ns
+1000000 rows, 100 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 15757900.00 ns
+1000000 rows, 100 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 15831600.00 ns
+1000000 rows, 100 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 16024299.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+1000000 rows, 1000 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 5090000.00 ns
+1000000 rows, 1000 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 5065900.00 ns
+1000000 rows, 1000 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 5355300.00 ns
+1000000 rows, 1000 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 5509800.00 ns
+1000000 rows, 1000 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 4966900.00 ns
+
+END SKETCH
+
+1000000 rows, 1000 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 6834300.00 ns
+1000000 rows, 1000 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 6778700.00 ns
+1000000 rows, 1000 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 6750100.00 ns
+1000000 rows, 1000 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 6962500.00 ns
+1000000 rows, 1000 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 6984100.00 ns
+
+END SKETCH
+
+1000000 rows, 1000 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 9117100.00 ns
+1000000 rows, 1000 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 9322900.00 ns
+1000000 rows, 1000 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 9029700.00 ns
+1000000 rows, 1000 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 9890600.00 ns
+1000000 rows, 1000 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 9593900.00 ns
+
+END SKETCH
+
+1000000 rows, 1000 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 10981100.00 ns
+1000000 rows, 1000 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 10977400.00 ns
+1000000 rows, 1000 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 11573700.00 ns
+1000000 rows, 1000 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 11324800.00 ns
+1000000 rows, 1000 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 11033900.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+1000000 rows, 1000 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 5440700.00 ns
+1000000 rows, 1000 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 4974200.00 ns
+1000000 rows, 1000 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 5363100.00 ns
+1000000 rows, 1000 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 8285100.00 ns
+1000000 rows, 1000 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 7790400.00 ns
+
+END SKETCH
+
+1000000 rows, 1000 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 7037300.00 ns
+1000000 rows, 1000 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 7349100.00 ns
+1000000 rows, 1000 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 6851800.00 ns
+1000000 rows, 1000 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 7109400.00 ns
+1000000 rows, 1000 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 7260200.00 ns
+
+END SKETCH
+
+1000000 rows, 1000 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 10362500.00 ns
+1000000 rows, 1000 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 10422900.00 ns
+1000000 rows, 1000 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 10373400.00 ns
+1000000 rows, 1000 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 10167000.00 ns
+1000000 rows, 1000 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 10502000.00 ns
+
+END SKETCH
+
+1000000 rows, 1000 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 10938300.00 ns
+1000000 rows, 1000 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 10895100.00 ns
+1000000 rows, 1000 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 10732700.00 ns
+1000000 rows, 1000 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 11225400.00 ns
+1000000 rows, 1000 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 10495600.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+1000000 rows, 1000 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 2036200.00 ns
+1000000 rows, 1000 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 1757000.00 ns
+1000000 rows, 1000 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 1770400.00 ns
+1000000 rows, 1000 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 1490500.00 ns
+1000000 rows, 1000 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 1384900.00 ns
+
+END SKETCH
+
+1000000 rows, 1000 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 10686400.00 ns
+1000000 rows, 1000 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 10709600.00 ns
+1000000 rows, 1000 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 10737600.00 ns
+1000000 rows, 1000 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 10143500.00 ns
+1000000 rows, 1000 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 10322600.00 ns
+
+END SKETCH
+
+1000000 rows, 1000 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 11969200.00 ns
+1000000 rows, 1000 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 12497600.00 ns
+1000000 rows, 1000 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 12240800.00 ns
+1000000 rows, 1000 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 12688800.00 ns
+1000000 rows, 1000 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 12126700.00 ns
+
+END SKETCH
+
+1000000 rows, 1000 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 6848300.00 ns
+1000000 rows, 1000 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 6590600.00 ns
+1000000 rows, 1000 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 6866000.00 ns
+1000000 rows, 1000 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 7485900.00 ns
+1000000 rows, 1000 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 7058200.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+1000000 rows, 10000 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 4765700.00 ns
+1000000 rows, 10000 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 5022200.00 ns
+1000000 rows, 10000 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 4985400.00 ns
+1000000 rows, 10000 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 5004500.00 ns
+1000000 rows, 10000 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 4865600.00 ns
+
+END SKETCH
+
+1000000 rows, 10000 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 8298599.00 ns
+1000000 rows, 10000 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 8487100.00 ns
+1000000 rows, 10000 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 8383300.00 ns
+1000000 rows, 10000 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 8274700.00 ns
+1000000 rows, 10000 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 8153100.00 ns
+
+END SKETCH
+
+1000000 rows, 10000 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 9314600.00 ns
+1000000 rows, 10000 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 9630500.00 ns
+1000000 rows, 10000 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 9425700.00 ns
+1000000 rows, 10000 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 9654700.00 ns
+1000000 rows, 10000 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 9147400.00 ns
+
+END SKETCH
+
+1000000 rows, 10000 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 9346500.00 ns
+1000000 rows, 10000 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 9545400.00 ns
+1000000 rows, 10000 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 9263600.00 ns
+1000000 rows, 10000 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 9514300.00 ns
+1000000 rows, 10000 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 9153700.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+1000000 rows, 10000 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 5341300.00 ns
+1000000 rows, 10000 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 4787500.00 ns
+1000000 rows, 10000 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 4786600.00 ns
+1000000 rows, 10000 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 5095200.00 ns
+1000000 rows, 10000 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 4817700.00 ns
+
+END SKETCH
+
+1000000 rows, 10000 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 6857900.00 ns
+1000000 rows, 10000 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 6602400.00 ns
+1000000 rows, 10000 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 6520300.00 ns
+1000000 rows, 10000 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 6744500.00 ns
+1000000 rows, 10000 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 6397700.00 ns
+
+END SKETCH
+
+1000000 rows, 10000 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 8488800.00 ns
+1000000 rows, 10000 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 8440100.00 ns
+1000000 rows, 10000 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 8833200.00 ns
+1000000 rows, 10000 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 8674900.00 ns
+1000000 rows, 10000 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 8539100.00 ns
+
+END SKETCH
+
+1000000 rows, 10000 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 9621500.00 ns
+1000000 rows, 10000 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 9889900.00 ns
+1000000 rows, 10000 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 11955900.00 ns
+1000000 rows, 10000 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 11238200.00 ns
+1000000 rows, 10000 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 9803200.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+1000000 rows, 10000 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 1934200.00 ns
+1000000 rows, 10000 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 1423000.00 ns
+1000000 rows, 10000 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 1354900.00 ns
+1000000 rows, 10000 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 1193800.00 ns
+1000000 rows, 10000 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 1148300.00 ns
+
+END SKETCH
+
+1000000 rows, 10000 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 11136800.00 ns
+1000000 rows, 10000 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 11301300.00 ns
+1000000 rows, 10000 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 11170000.00 ns
+1000000 rows, 10000 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 11351200.00 ns
+1000000 rows, 10000 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 10670200.00 ns
+
+END SKETCH
+
+1000000 rows, 10000 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 9056300.00 ns
+1000000 rows, 10000 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 9675500.00 ns
+1000000 rows, 10000 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 9556200.00 ns
+1000000 rows, 10000 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 9780800.00 ns
+1000000 rows, 10000 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 9664800.00 ns
+
+END SKETCH
+
+1000000 rows, 10000 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 20107700.00 ns
+1000000 rows, 10000 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 16457200.00 ns
+1000000 rows, 10000 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 8400100.00 ns
+1000000 rows, 10000 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 9121900.00 ns
+1000000 rows, 10000 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 11323200.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+1000000 rows, 100000 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 5069100.00 ns
+1000000 rows, 100000 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 5107600.00 ns
+1000000 rows, 100000 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 4978100.00 ns
+1000000 rows, 100000 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 4906500.00 ns
+1000000 rows, 100000 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 4749100.00 ns
+
+END SKETCH
+
+1000000 rows, 100000 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 8577000.00 ns
+1000000 rows, 100000 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 8300900.00 ns
+1000000 rows, 100000 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 8343400.00 ns
+1000000 rows, 100000 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 8389900.00 ns
+1000000 rows, 100000 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 8439600.00 ns
+
+END SKETCH
+
+1000000 rows, 100000 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 9069800.00 ns
+1000000 rows, 100000 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 8644000.00 ns
+1000000 rows, 100000 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 8430600.00 ns
+1000000 rows, 100000 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 8649900.00 ns
+1000000 rows, 100000 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 8484900.00 ns
+
+END SKETCH
+
+1000000 rows, 100000 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 10012200.00 ns
+1000000 rows, 100000 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 9952600.00 ns
+1000000 rows, 100000 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 9392200.00 ns
+1000000 rows, 100000 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 9646000.00 ns
+1000000 rows, 100000 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 9461200.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+1000000 rows, 100000 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 4925900.00 ns
+1000000 rows, 100000 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 5258400.00 ns
+1000000 rows, 100000 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 5077000.00 ns
+1000000 rows, 100000 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 4810000.00 ns
+1000000 rows, 100000 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 4930900.00 ns
+
+END SKETCH
+
+1000000 rows, 100000 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 8381400.00 ns
+1000000 rows, 100000 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 8296900.00 ns
+1000000 rows, 100000 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 10303200.00 ns
+1000000 rows, 100000 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 11462300.00 ns
+1000000 rows, 100000 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 8607300.00 ns
+
+END SKETCH
+
+1000000 rows, 100000 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 10389800.00 ns
+1000000 rows, 100000 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 9795500.00 ns
+1000000 rows, 100000 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 10493300.00 ns
+1000000 rows, 100000 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 11838300.00 ns
+1000000 rows, 100000 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 10849400.00 ns
+
+END SKETCH
+
+1000000 rows, 100000 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 10670800.00 ns
+1000000 rows, 100000 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 10449200.00 ns
+1000000 rows, 100000 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 10985000.00 ns
+1000000 rows, 100000 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 10247600.00 ns
+1000000 rows, 100000 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 10112600.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+1000000 rows, 100000 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 3647600.00 ns
+1000000 rows, 100000 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 2861900.00 ns
+1000000 rows, 100000 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 2399900.00 ns
+1000000 rows, 100000 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 2536300.00 ns
+1000000 rows, 100000 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 2595200.00 ns
+
+END SKETCH
+
+1000000 rows, 100000 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 10982900.00 ns
+1000000 rows, 100000 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 11049700.00 ns
+1000000 rows, 100000 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 11412800.00 ns
+1000000 rows, 100000 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 11127700.00 ns
+1000000 rows, 100000 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 11469000.00 ns
+
+END SKETCH
+
+1000000 rows, 100000 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 13271599.00 ns
+1000000 rows, 100000 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 12163000.00 ns
+1000000 rows, 100000 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 13158100.00 ns
+1000000 rows, 100000 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 12413000.00 ns
+1000000 rows, 100000 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 12194700.00 ns
+
+END SKETCH
+
+1000000 rows, 100000 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 12238500.00 ns
+1000000 rows, 100000 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 13449700.00 ns
+1000000 rows, 100000 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 11731300.00 ns
+1000000 rows, 100000 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 11776600.00 ns
+1000000 rows, 100000 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 11521400.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+
+END ROW
+
+Using rows: 10000000
+10000000 rows, 10 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 118293501.00 ns
+10000000 rows, 10 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 110894101.00 ns
+10000000 rows, 10 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 108800400.00 ns
+10000000 rows, 10 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 110916401.00 ns
+10000000 rows, 10 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 108641301.00 ns
+
+END SKETCH
+
+10000000 rows, 10 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 164137801.00 ns
+10000000 rows, 10 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 163434901.00 ns
+10000000 rows, 10 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 165309701.00 ns
+10000000 rows, 10 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 187827501.00 ns
+10000000 rows, 10 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 165971401.00 ns
+
+END SKETCH
+
+10000000 rows, 10 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 214292901.00 ns
+10000000 rows, 10 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 202505601.00 ns
+10000000 rows, 10 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 240647202.00 ns
+10000000 rows, 10 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 196556201.00 ns
+10000000 rows, 10 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 195940901.00 ns
+
+END SKETCH
+
+10000000 rows, 10 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 424884402.00 ns
+10000000 rows, 10 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 315828102.00 ns
+10000000 rows, 10 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 315672702.00 ns
+10000000 rows, 10 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 332178903.00 ns
+10000000 rows, 10 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 304337302.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+10000000 rows, 10 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 107144800.00 ns
+10000000 rows, 10 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 127972001.00 ns
+10000000 rows, 10 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 106281701.00 ns
+10000000 rows, 10 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 107130201.00 ns
+10000000 rows, 10 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 105649500.00 ns
+
+END SKETCH
+
+10000000 rows, 10 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 135286000.00 ns
+10000000 rows, 10 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 139327501.00 ns
+10000000 rows, 10 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 139260301.00 ns
+10000000 rows, 10 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 136997001.00 ns
+10000000 rows, 10 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 136919301.00 ns
+
+END SKETCH
+
+10000000 rows, 10 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 215890202.00 ns
+10000000 rows, 10 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 216200601.00 ns
+10000000 rows, 10 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 214296601.00 ns
+10000000 rows, 10 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 278020402.00 ns
+10000000 rows, 10 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 230262902.00 ns
+
+END SKETCH
+
+10000000 rows, 10 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 456366203.00 ns
+10000000 rows, 10 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 335904302.00 ns
+10000000 rows, 10 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 325524102.00 ns
+10000000 rows, 10 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 338989301.00 ns
+10000000 rows, 10 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 331230302.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+10000000 rows, 10 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 118240901.00 ns
+10000000 rows, 10 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 108555401.00 ns
+10000000 rows, 10 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 111001100.00 ns
+10000000 rows, 10 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 107786601.00 ns
+10000000 rows, 10 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 106401400.00 ns
+
+END SKETCH
+
+10000000 rows, 10 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 179101400.00 ns
+10000000 rows, 10 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 177078801.00 ns
+10000000 rows, 10 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 185893901.00 ns
+10000000 rows, 10 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 189357701.00 ns
+10000000 rows, 10 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 182988001.00 ns
+
+END SKETCH
+
+10000000 rows, 10 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 225304401.00 ns
+10000000 rows, 10 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 177421501.00 ns
+10000000 rows, 10 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 174934601.00 ns
+10000000 rows, 10 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 174307901.00 ns
+10000000 rows, 10 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 173039900.00 ns
+
+END SKETCH
+
+10000000 rows, 10 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 487962602.00 ns
+10000000 rows, 10 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 329720002.00 ns
+10000000 rows, 10 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 328033802.00 ns
+10000000 rows, 10 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 341092702.00 ns
+10000000 rows, 10 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 367364902.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+10000000 rows, 100 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 36299200.00 ns
+10000000 rows, 100 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 39124400.00 ns
+10000000 rows, 100 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 43480100.00 ns
+10000000 rows, 100 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 41855500.00 ns
+10000000 rows, 100 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 48253501.00 ns
+
+END SKETCH
+
+10000000 rows, 100 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 121953201.00 ns
+10000000 rows, 100 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 124381400.00 ns
+10000000 rows, 100 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 118491301.00 ns
+10000000 rows, 100 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 123435300.00 ns
+10000000 rows, 100 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 121410301.00 ns
+
+END SKETCH
+
+10000000 rows, 100 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 95929001.00 ns
+10000000 rows, 100 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 101084000.00 ns
+10000000 rows, 100 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 86728501.00 ns
+10000000 rows, 100 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 87442400.00 ns
+10000000 rows, 100 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 91219401.00 ns
+
+END SKETCH
+
+10000000 rows, 100 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 163103501.00 ns
+10000000 rows, 100 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 166128101.00 ns
+10000000 rows, 100 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 162656801.00 ns
+10000000 rows, 100 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 160337902.00 ns
+10000000 rows, 100 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 158552802.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+10000000 rows, 100 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 31754000.00 ns
+10000000 rows, 100 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 30600201.00 ns
+10000000 rows, 100 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 30520800.00 ns
+10000000 rows, 100 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 31021200.00 ns
+10000000 rows, 100 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 33036901.00 ns
+
+END SKETCH
+
+10000000 rows, 100 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 103869001.00 ns
+10000000 rows, 100 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 104316701.00 ns
+10000000 rows, 100 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 103544301.00 ns
+10000000 rows, 100 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 103607402.00 ns
+10000000 rows, 100 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 103991501.00 ns
+
+END SKETCH
+
+10000000 rows, 100 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 113459501.00 ns
+10000000 rows, 100 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 125392502.00 ns
+10000000 rows, 100 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 123868901.00 ns
+10000000 rows, 100 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 140675002.00 ns
+10000000 rows, 100 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 121556401.00 ns
+
+END SKETCH
+
+10000000 rows, 100 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 167846302.00 ns
+10000000 rows, 100 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 165436202.00 ns
+10000000 rows, 100 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 160374702.00 ns
+10000000 rows, 100 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 157477902.00 ns
+10000000 rows, 100 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 158560001.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+10000000 rows, 100 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 36921600.00 ns
+10000000 rows, 100 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 41218200.00 ns
+10000000 rows, 100 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 37515801.00 ns
+10000000 rows, 100 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 36033200.00 ns
+10000000 rows, 100 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 32911101.00 ns
+
+END SKETCH
+
+10000000 rows, 100 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 60434601.00 ns
+10000000 rows, 100 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 58658700.00 ns
+10000000 rows, 100 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 60097001.00 ns
+10000000 rows, 100 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 57417101.00 ns
+10000000 rows, 100 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 54642200.00 ns
+
+END SKETCH
+
+10000000 rows, 100 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 136435501.00 ns
+10000000 rows, 100 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 162928602.00 ns
+10000000 rows, 100 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 149053001.00 ns
+10000000 rows, 100 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 140579102.00 ns
+10000000 rows, 100 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 135962202.00 ns
+
+END SKETCH
+
+10000000 rows, 100 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 141348101.00 ns
+10000000 rows, 100 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 145724602.00 ns
+10000000 rows, 100 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 140486102.00 ns
+10000000 rows, 100 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 140541201.00 ns
+10000000 rows, 100 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 139323302.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+10000000 rows, 1000 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 19192200.00 ns
+10000000 rows, 1000 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 18206401.00 ns
+10000000 rows, 1000 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 20032100.00 ns
+10000000 rows, 1000 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 19352600.00 ns
+10000000 rows, 1000 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 19802900.00 ns
+
+END SKETCH
+
+10000000 rows, 1000 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 87909401.00 ns
+10000000 rows, 1000 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 87253300.00 ns
+10000000 rows, 1000 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 86836801.00 ns
+10000000 rows, 1000 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 90733301.00 ns
+10000000 rows, 1000 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 90196801.00 ns
+
+END SKETCH
+
+10000000 rows, 1000 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 113238101.00 ns
+10000000 rows, 1000 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 112257201.00 ns
+10000000 rows, 1000 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 109860101.00 ns
+10000000 rows, 1000 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 108747702.00 ns
+10000000 rows, 1000 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 110352701.00 ns
+
+END SKETCH
+
+10000000 rows, 1000 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 111336601.00 ns
+10000000 rows, 1000 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 112346502.00 ns
+10000000 rows, 1000 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 111141001.00 ns
+10000000 rows, 1000 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 111173901.00 ns
+10000000 rows, 1000 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 115242701.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+10000000 rows, 1000 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 17825800.00 ns
+10000000 rows, 1000 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 17967800.00 ns
+10000000 rows, 1000 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 17594200.00 ns
+10000000 rows, 1000 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 17437001.00 ns
+10000000 rows, 1000 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 17390700.00 ns
+
+END SKETCH
+
+10000000 rows, 1000 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 108405701.00 ns
+10000000 rows, 1000 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 94248101.00 ns
+10000000 rows, 1000 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 86543801.00 ns
+10000000 rows, 1000 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 84346001.00 ns
+10000000 rows, 1000 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 88003303.00 ns
+
+END SKETCH
+
+10000000 rows, 1000 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 107072605.00 ns
+10000000 rows, 1000 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 106644804.00 ns
+10000000 rows, 1000 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 106274405.00 ns
+10000000 rows, 1000 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 108313004.00 ns
+10000000 rows, 1000 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 111728505.00 ns
+
+END SKETCH
+
+10000000 rows, 1000 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 114968105.00 ns
+10000000 rows, 1000 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 118690405.00 ns
+10000000 rows, 1000 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 113603504.00 ns
+10000000 rows, 1000 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 111729705.00 ns
+10000000 rows, 1000 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 113148205.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+10000000 rows, 1000 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 18600201.00 ns
+10000000 rows, 1000 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 19658600.00 ns
+10000000 rows, 1000 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 20697501.00 ns
+10000000 rows, 1000 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 19803001.00 ns
+10000000 rows, 1000 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 17463201.00 ns
+
+END SKETCH
+
+10000000 rows, 1000 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 33918701.00 ns
+10000000 rows, 1000 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 34610102.00 ns
+10000000 rows, 1000 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 32706201.00 ns
+10000000 rows, 1000 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 33059402.00 ns
+10000000 rows, 1000 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 37492301.00 ns
+
+END SKETCH
+
+10000000 rows, 1000 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 114565305.00 ns
+10000000 rows, 1000 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 124416205.00 ns
+10000000 rows, 1000 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 118429305.00 ns
+10000000 rows, 1000 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 117445205.00 ns
+10000000 rows, 1000 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 116115205.00 ns
+
+END SKETCH
+
+10000000 rows, 1000 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 84353504.00 ns
+10000000 rows, 1000 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 83415703.00 ns
+10000000 rows, 1000 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 84814504.00 ns
+10000000 rows, 1000 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 95001903.00 ns
+10000000 rows, 1000 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 82536704.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+10000000 rows, 10000 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 15569101.00 ns
+10000000 rows, 10000 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 15636800.00 ns
+10000000 rows, 10000 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 16139501.00 ns
+10000000 rows, 10000 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 15147301.00 ns
+10000000 rows, 10000 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 16140300.00 ns
+
+END SKETCH
+
+10000000 rows, 10000 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 18301201.00 ns
+10000000 rows, 10000 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 18023301.00 ns
+10000000 rows, 10000 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 18286901.00 ns
+10000000 rows, 10000 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 18360700.00 ns
+10000000 rows, 10000 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 17758601.00 ns
+
+END SKETCH
+
+10000000 rows, 10000 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 86726504.00 ns
+10000000 rows, 10000 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 85369104.00 ns
+10000000 rows, 10000 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 86146003.00 ns
+10000000 rows, 10000 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 85482704.00 ns
+10000000 rows, 10000 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 105926404.00 ns
+
+END SKETCH
+
+10000000 rows, 10000 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 54552503.00 ns
+10000000 rows, 10000 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 54666302.00 ns
+10000000 rows, 10000 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 54917102.00 ns
+10000000 rows, 10000 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 53879902.00 ns
+10000000 rows, 10000 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 54917903.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+10000000 rows, 10000 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 14712200.00 ns
+10000000 rows, 10000 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 14951501.00 ns
+10000000 rows, 10000 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 15594301.00 ns
+10000000 rows, 10000 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 16113900.00 ns
+10000000 rows, 10000 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 15419001.00 ns
+
+END SKETCH
+
+10000000 rows, 10000 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 88223904.00 ns
+10000000 rows, 10000 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 90314704.00 ns
+10000000 rows, 10000 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 89804903.00 ns
+10000000 rows, 10000 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 95284404.00 ns
+10000000 rows, 10000 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 97453004.00 ns
+
+END SKETCH
+
+10000000 rows, 10000 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 110717404.00 ns
+10000000 rows, 10000 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 104448304.00 ns
+10000000 rows, 10000 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 106204305.00 ns
+10000000 rows, 10000 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 110003304.00 ns
+10000000 rows, 10000 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 106354305.00 ns
+
+END SKETCH
+
+10000000 rows, 10000 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 69631503.00 ns
+10000000 rows, 10000 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 68941603.00 ns
+10000000 rows, 10000 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 69240203.00 ns
+10000000 rows, 10000 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 69341503.00 ns
+10000000 rows, 10000 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 69635102.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+10000000 rows, 10000 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 15240100.00 ns
+10000000 rows, 10000 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 16457701.00 ns
+10000000 rows, 10000 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 16904801.00 ns
+10000000 rows, 10000 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 16441800.00 ns
+10000000 rows, 10000 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 16510901.00 ns
+
+END SKETCH
+
+10000000 rows, 10000 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 94670204.00 ns
+10000000 rows, 10000 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 94386804.00 ns
+10000000 rows, 10000 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 100551604.00 ns
+10000000 rows, 10000 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 97857404.00 ns
+10000000 rows, 10000 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 97264104.00 ns
+
+END SKETCH
+
+10000000 rows, 10000 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 51322502.00 ns
+10000000 rows, 10000 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 53804502.00 ns
+10000000 rows, 10000 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 51594702.00 ns
+10000000 rows, 10000 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 53968002.00 ns
+10000000 rows, 10000 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 53798303.00 ns
+
+END SKETCH
+
+10000000 rows, 10000 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 91339404.00 ns
+10000000 rows, 10000 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 90462303.00 ns
+10000000 rows, 10000 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 106574805.00 ns
+10000000 rows, 10000 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 89059905.00 ns
+10000000 rows, 10000 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 91108406.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+10000000 rows, 100000 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 21650001.00 ns
+10000000 rows, 100000 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 21787402.00 ns
+10000000 rows, 100000 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 24199101.00 ns
+10000000 rows, 100000 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 22436702.00 ns
+10000000 rows, 100000 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 26390302.00 ns
+
+END SKETCH
+
+10000000 rows, 100000 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 52009704.00 ns
+10000000 rows, 100000 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 52759104.00 ns
+10000000 rows, 100000 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 69887604.00 ns
+10000000 rows, 100000 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 57523704.00 ns
+10000000 rows, 100000 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 54490304.00 ns
+
+END SKETCH
+
+10000000 rows, 100000 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 90422206.00 ns
+10000000 rows, 100000 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 95564507.00 ns
+10000000 rows, 100000 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 99382907.00 ns
+10000000 rows, 100000 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 103269507.00 ns
+10000000 rows, 100000 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 90554606.00 ns
+
+END SKETCH
+
+10000000 rows, 100000 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 111940808.00 ns
+10000000 rows, 100000 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 86758206.00 ns
+10000000 rows, 100000 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 88824106.00 ns
+10000000 rows, 100000 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 89694606.00 ns
+10000000 rows, 100000 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 93818106.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+10000000 rows, 100000 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 21002302.00 ns
+10000000 rows, 100000 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 19546101.00 ns
+10000000 rows, 100000 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 19351001.00 ns
+10000000 rows, 100000 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 20713902.00 ns
+10000000 rows, 100000 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 19913701.00 ns
+
+END SKETCH
+
+10000000 rows, 100000 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 115678708.00 ns
+10000000 rows, 100000 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 112598508.00 ns
+10000000 rows, 100000 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 114394708.00 ns
+10000000 rows, 100000 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 116582008.00 ns
+10000000 rows, 100000 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 112552207.00 ns
+
+END SKETCH
+
+10000000 rows, 100000 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 101742607.00 ns
+10000000 rows, 100000 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 100478807.00 ns
+10000000 rows, 100000 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 102279207.00 ns
+10000000 rows, 100000 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 102763407.00 ns
+10000000 rows, 100000 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 104271308.00 ns
+
+END SKETCH
+
+10000000 rows, 100000 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 102000807.00 ns
+10000000 rows, 100000 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 84694606.00 ns
+10000000 rows, 100000 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 90649306.00 ns
+10000000 rows, 100000 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 104242008.00 ns
+10000000 rows, 100000 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 96609607.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+10000000 rows, 100000 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 22714301.00 ns
+10000000 rows, 100000 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 19977602.00 ns
+10000000 rows, 100000 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 19656301.00 ns
+10000000 rows, 100000 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 19523802.00 ns
+10000000 rows, 100000 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 20250601.00 ns
+
+END SKETCH
+
+10000000 rows, 100000 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 93195207.00 ns
+10000000 rows, 100000 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 94477006.00 ns
+10000000 rows, 100000 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 90886807.00 ns
+10000000 rows, 100000 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 103418407.00 ns
+10000000 rows, 100000 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 88784506.00 ns
+
+END SKETCH
+
+10000000 rows, 100000 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 77188706.00 ns
+10000000 rows, 100000 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 71172605.00 ns
+10000000 rows, 100000 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 71785605.00 ns
+10000000 rows, 100000 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 73453405.00 ns
+10000000 rows, 100000 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 78233706.00 ns
+
+END SKETCH
+
+10000000 rows, 100000 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 114515608.00 ns
+10000000 rows, 100000 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 119251408.00 ns
+10000000 rows, 100000 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 117454509.00 ns
+10000000 rows, 100000 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 115324408.00 ns
+10000000 rows, 100000 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 112131908.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+10000000 rows, 1000000 bins, filter1 filter, 1 sketch, 1/5
+Time to filter: 23983800.00 ns
+10000000 rows, 1000000 bins, filter1 filter, 1 sketch, 2/5
+Time to filter: 20319901.00 ns
+10000000 rows, 1000000 bins, filter1 filter, 1 sketch, 3/5
+Time to filter: 21005500.00 ns
+10000000 rows, 1000000 bins, filter1 filter, 1 sketch, 4/5
+Time to filter: 23940700.00 ns
+10000000 rows, 1000000 bins, filter1 filter, 1 sketch, 5/5
+Time to filter: 22241601.00 ns
+
+END SKETCH
+
+10000000 rows, 1000000 bins, filter1 filter, 2 sketch, 1/5
+Time to filter: 78177901.00 ns
+10000000 rows, 1000000 bins, filter1 filter, 2 sketch, 2/5
+Time to filter: 77582301.00 ns
+10000000 rows, 1000000 bins, filter1 filter, 2 sketch, 3/5
+Time to filter: 75629902.00 ns
+10000000 rows, 1000000 bins, filter1 filter, 2 sketch, 4/5
+Time to filter: 79094701.00 ns
+10000000 rows, 1000000 bins, filter1 filter, 2 sketch, 5/5
+Time to filter: 74626901.00 ns
+
+END SKETCH
+
+10000000 rows, 1000000 bins, filter1 filter, 4 sketch, 1/5
+Time to filter: 96000602.00 ns
+10000000 rows, 1000000 bins, filter1 filter, 4 sketch, 2/5
+Time to filter: 84319501.00 ns
+10000000 rows, 1000000 bins, filter1 filter, 4 sketch, 3/5
+Time to filter: 83653101.00 ns
+10000000 rows, 1000000 bins, filter1 filter, 4 sketch, 4/5
+Time to filter: 82874702.00 ns
+10000000 rows, 1000000 bins, filter1 filter, 4 sketch, 5/5
+Time to filter: 86914201.00 ns
+
+END SKETCH
+
+10000000 rows, 1000000 bins, filter1 filter, 8 sketch, 1/5
+Time to filter: 147947203.00 ns
+10000000 rows, 1000000 bins, filter1 filter, 8 sketch, 2/5
+Time to filter: 130958802.00 ns
+10000000 rows, 1000000 bins, filter1 filter, 8 sketch, 3/5
+Time to filter: 129557402.00 ns
+10000000 rows, 1000000 bins, filter1 filter, 8 sketch, 4/5
+Time to filter: 125210902.00 ns
+10000000 rows, 1000000 bins, filter1 filter, 8 sketch, 5/5
+Time to filter: 131713003.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+10000000 rows, 1000000 bins, filter2 filter, 1 sketch, 1/5
+Time to filter: 20344801.00 ns
+10000000 rows, 1000000 bins, filter2 filter, 1 sketch, 2/5
+Time to filter: 23233300.00 ns
+10000000 rows, 1000000 bins, filter2 filter, 1 sketch, 3/5
+Time to filter: 21947300.00 ns
+10000000 rows, 1000000 bins, filter2 filter, 1 sketch, 4/5
+Time to filter: 21844801.00 ns
+10000000 rows, 1000000 bins, filter2 filter, 1 sketch, 5/5
+Time to filter: 22180500.00 ns
+
+END SKETCH
+
+10000000 rows, 1000000 bins, filter2 filter, 2 sketch, 1/5
+Time to filter: 121520402.00 ns
+10000000 rows, 1000000 bins, filter2 filter, 2 sketch, 2/5
+Time to filter: 117122602.00 ns
+10000000 rows, 1000000 bins, filter2 filter, 2 sketch, 3/5
+Time to filter: 133358102.00 ns
+10000000 rows, 1000000 bins, filter2 filter, 2 sketch, 4/5
+Time to filter: 115004403.00 ns
+10000000 rows, 1000000 bins, filter2 filter, 2 sketch, 5/5
+Time to filter: 117390202.00 ns
+
+END SKETCH
+
+10000000 rows, 1000000 bins, filter2 filter, 4 sketch, 1/5
+Time to filter: 110318102.00 ns
+10000000 rows, 1000000 bins, filter2 filter, 4 sketch, 2/5
+Time to filter: 129507202.00 ns
+10000000 rows, 1000000 bins, filter2 filter, 4 sketch, 3/5
+Time to filter: 111569802.00 ns
+10000000 rows, 1000000 bins, filter2 filter, 4 sketch, 4/5
+Time to filter: 111312702.00 ns
+10000000 rows, 1000000 bins, filter2 filter, 4 sketch, 5/5
+Time to filter: 114561703.00 ns
+
+END SKETCH
+
+10000000 rows, 1000000 bins, filter2 filter, 8 sketch, 1/5
+Time to filter: 80124901.00 ns
+10000000 rows, 1000000 bins, filter2 filter, 8 sketch, 2/5
+Time to filter: 76221402.00 ns
+10000000 rows, 1000000 bins, filter2 filter, 8 sketch, 3/5
+Time to filter: 98601102.00 ns
+10000000 rows, 1000000 bins, filter2 filter, 8 sketch, 4/5
+Time to filter: 91322201.00 ns
+10000000 rows, 1000000 bins, filter2 filter, 8 sketch, 5/5
+Time to filter: 87334402.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+10000000 rows, 1000000 bins, filter3 filter, 1 sketch, 1/5
+Time to filter: 25136200.00 ns
+10000000 rows, 1000000 bins, filter3 filter, 1 sketch, 2/5
+Time to filter: 24797400.00 ns
+10000000 rows, 1000000 bins, filter3 filter, 1 sketch, 3/5
+Time to filter: 24575401.00 ns
+10000000 rows, 1000000 bins, filter3 filter, 1 sketch, 4/5
+Time to filter: 28465200.00 ns
+10000000 rows, 1000000 bins, filter3 filter, 1 sketch, 5/5
+Time to filter: 27133901.00 ns
+
+END SKETCH
+
+10000000 rows, 1000000 bins, filter3 filter, 2 sketch, 1/5
+Time to filter: 123623202.00 ns
+10000000 rows, 1000000 bins, filter3 filter, 2 sketch, 2/5
+Time to filter: 114135103.00 ns
+10000000 rows, 1000000 bins, filter3 filter, 2 sketch, 3/5
+Time to filter: 112212002.00 ns
+10000000 rows, 1000000 bins, filter3 filter, 2 sketch, 4/5
+Time to filter: 113935402.00 ns
+10000000 rows, 1000000 bins, filter3 filter, 2 sketch, 5/5
+Time to filter: 112161402.00 ns
+
+END SKETCH
+
+10000000 rows, 1000000 bins, filter3 filter, 4 sketch, 1/5
+Time to filter: 67780001.00 ns
+10000000 rows, 1000000 bins, filter3 filter, 4 sketch, 2/5
+Time to filter: 66958001.00 ns
+10000000 rows, 1000000 bins, filter3 filter, 4 sketch, 3/5
+Time to filter: 69767502.00 ns
+10000000 rows, 1000000 bins, filter3 filter, 4 sketch, 4/5
+Time to filter: 68455001.00 ns
+10000000 rows, 1000000 bins, filter3 filter, 4 sketch, 5/5
+Time to filter: 65992601.00 ns
+
+END SKETCH
+
+10000000 rows, 1000000 bins, filter3 filter, 8 sketch, 1/5
+Time to filter: 71631001.00 ns
+10000000 rows, 1000000 bins, filter3 filter, 8 sketch, 2/5
+Time to filter: 71989601.00 ns
+10000000 rows, 1000000 bins, filter3 filter, 8 sketch, 3/5
+Time to filter: 70270701.00 ns
+10000000 rows, 1000000 bins, filter3 filter, 8 sketch, 4/5
+Time to filter: 71443602.00 ns
+10000000 rows, 1000000 bins, filter3 filter, 8 sketch, 5/5
+Time to filter: 70810401.00 ns
+
+END SKETCH
+
+
+END FILTER
+
+
+END BIN
+
+
+END ROW
+

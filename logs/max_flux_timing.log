@@ -1,0 +1,70 @@
+NUM ROWS: 10
+query result: 6.032413959503174
+unfiltered query time: 0.10234800 ms
+query result: 6.032413959503174
+filtered query time: 0.38661600 ms
+query result: 6.032413959503174
+multiindex filtered query time: 0.53125400 ms
+
+**********
+
+NUM ROWS: 100
+query result: 10.847942352294922
+unfiltered query time: 0.09905700 ms
+query result: 10.847942352294922
+filtered query time: 0.43324500 ms
+query result: 10.847942352294922
+multiindex filtered query time: 0.52150000 ms
+
+**********
+
+NUM ROWS: 1000
+query result: 45.07051086425781
+unfiltered query time: 0.10404600 ms
+query result: 45.07051086425781
+filtered query time: 0.41781000 ms
+query result: 45.07051086425781
+multiindex filtered query time: 0.71025400 ms
+
+**********
+
+NUM ROWS: 10000
+query result: 173.5590057373047
+unfiltered query time: 0.15911500 ms
+query result: 173.5590057373047
+filtered query time: 0.55951200 ms
+query result: 173.5590057373047
+multiindex filtered query time: 0.85403000 ms
+
+**********
+
+NUM ROWS: 100000
+query result: 15230.0390625
+unfiltered query time: 0.23084800 ms
+query result: 15230.0390625
+filtered query time: 0.44675500 ms
+query result: 15230.0390625
+multiindex filtered query time: 0.67332800 ms
+
+**********
+
+NUM ROWS: 1000000
+query result: 39475.69921875
+unfiltered query time: 1.55854500 ms
+query result: 39475.69921875
+filtered query time: 0.81388000 ms
+query result: 39475.69921875
+multiindex filtered query time: 1.18430300 ms
+
+**********
+
+NUM ROWS: 10855959
+query result: 61729.234375
+unfiltered query time: 13.00912900 ms
+query result: 61729.234375
+filtered query time: 6.04275700 ms
+query result: 61729.234375
+multiindex filtered query time: 11.37290900 ms
+
+**********
+

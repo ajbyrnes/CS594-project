@@ -1,0 +1,321 @@
+Using data: data/test_set_batch1.csv
+Using rows: 1000
+Annotated DataFrame size: 47460 bytes
+1000 rows, 10 bins, 1/5
+Time to reindex: 2166300.00 ns
+1000 rows, 10 bins, 2/5
+Time to reindex: 621200.00 ns
+1000 rows, 10 bins, 3/5
+Time to reindex: 583800.00 ns
+1000 rows, 10 bins, 4/5
+Time to reindex: 580300.00 ns
+1000 rows, 10 bins, 5/5
+Time to reindex: 734100.00 ns
+MultiIndexed DataFrame size: 40460 bytes
+
+END BIN
+
+Annotated DataFrame size: 52768 bytes
+1000 rows, 100 bins, 1/5
+Time to reindex: 708600.00 ns
+1000 rows, 100 bins, 2/5
+Time to reindex: 902000.00 ns
+1000 rows, 100 bins, 3/5
+Time to reindex: 625300.00 ns
+1000 rows, 100 bins, 4/5
+Time to reindex: 615800.00 ns
+1000 rows, 100 bins, 5/5
+Time to reindex: 659600.00 ns
+MultiIndexed DataFrame size: 45768 bytes
+
+END BIN
+
+
+END ROW
+
+Using rows: 10000
+Annotated DataFrame size: 470460 bytes
+10000 rows, 10 bins, 1/5
+Time to reindex: 1152400.00 ns
+10000 rows, 10 bins, 2/5
+Time to reindex: 1148200.00 ns
+10000 rows, 10 bins, 3/5
+Time to reindex: 1064500.00 ns
+10000 rows, 10 bins, 4/5
+Time to reindex: 1064700.00 ns
+10000 rows, 10 bins, 5/5
+Time to reindex: 1119600.00 ns
+MultiIndexed DataFrame size: 400460 bytes
+
+END BIN
+
+Annotated DataFrame size: 475768 bytes
+10000 rows, 100 bins, 1/5
+Time to reindex: 1288600.00 ns
+10000 rows, 100 bins, 2/5
+Time to reindex: 1284400.00 ns
+10000 rows, 100 bins, 3/5
+Time to reindex: 1203800.00 ns
+10000 rows, 100 bins, 4/5
+Time to reindex: 1381799.00 ns
+10000 rows, 100 bins, 5/5
+Time to reindex: 1420200.00 ns
+MultiIndexed DataFrame size: 405768 bytes
+
+END BIN
+
+Annotated DataFrame size: 529064 bytes
+10000 rows, 1000 bins, 1/5
+Time to reindex: 1556400.00 ns
+10000 rows, 1000 bins, 2/5
+Time to reindex: 1385700.00 ns
+10000 rows, 1000 bins, 3/5
+Time to reindex: 1396800.00 ns
+10000 rows, 1000 bins, 4/5
+Time to reindex: 1349200.00 ns
+10000 rows, 1000 bins, 5/5
+Time to reindex: 1544400.00 ns
+MultiIndexed DataFrame size: 469064 bytes
+
+END BIN
+
+
+END ROW
+
+Using rows: 100000
+Annotated DataFrame size: 4700460 bytes
+100000 rows, 10 bins, 1/5
+Time to reindex: 7321000.00 ns
+100000 rows, 10 bins, 2/5
+Time to reindex: 7903199.00 ns
+100000 rows, 10 bins, 3/5
+Time to reindex: 7528300.00 ns
+100000 rows, 10 bins, 4/5
+Time to reindex: 7125700.00 ns
+100000 rows, 10 bins, 5/5
+Time to reindex: 8262800.00 ns
+MultiIndexed DataFrame size: 4000460 bytes
+
+END BIN
+
+Annotated DataFrame size: 4705768 bytes
+100000 rows, 100 bins, 1/5
+Time to reindex: 8829300.00 ns
+100000 rows, 100 bins, 2/5
+Time to reindex: 10303200.00 ns
+100000 rows, 100 bins, 3/5
+Time to reindex: 10738700.00 ns
+100000 rows, 100 bins, 4/5
+Time to reindex: 11081599.00 ns
+100000 rows, 100 bins, 5/5
+Time to reindex: 11263600.00 ns
+MultiIndexed DataFrame size: 4005768 bytes
+
+END BIN
+
+Annotated DataFrame size: 4849064 bytes
+100000 rows, 1000 bins, 1/5
+Time to reindex: 12103599.00 ns
+100000 rows, 1000 bins, 2/5
+Time to reindex: 12171500.00 ns
+100000 rows, 1000 bins, 3/5
+Time to reindex: 12463900.00 ns
+100000 rows, 1000 bins, 4/5
+Time to reindex: 12453300.00 ns
+100000 rows, 1000 bins, 5/5
+Time to reindex: 12076000.00 ns
+MultiIndexed DataFrame size: 4249064 bytes
+
+END BIN
+
+Annotated DataFrame size: 5224232 bytes
+100000 rows, 10000 bins, 1/5
+Time to reindex: 12413000.00 ns
+100000 rows, 10000 bins, 2/5
+Time to reindex: 12524000.00 ns
+100000 rows, 10000 bins, 3/5
+Time to reindex: 11701999.00 ns
+100000 rows, 10000 bins, 4/5
+Time to reindex: 11936700.00 ns
+100000 rows, 10000 bins, 5/5
+Time to reindex: 12064100.00 ns
+MultiIndexed DataFrame size: 4624232 bytes
+
+END BIN
+
+
+END ROW
+
+Using rows: 1000000
+Annotated DataFrame size: 47000460 bytes
+1000000 rows, 10 bins, 1/5
+Time to reindex: 102185000.00 ns
+1000000 rows, 10 bins, 2/5
+Time to reindex: 88942399.00 ns
+1000000 rows, 10 bins, 3/5
+Time to reindex: 82159600.00 ns
+1000000 rows, 10 bins, 4/5
+Time to reindex: 81995700.00 ns
+1000000 rows, 10 bins, 5/5
+Time to reindex: 85016700.00 ns
+MultiIndexed DataFrame size: 40000460 bytes
+
+END BIN
+
+Annotated DataFrame size: 47005768 bytes
+1000000 rows, 100 bins, 1/5
+Time to reindex: 97960600.00 ns
+1000000 rows, 100 bins, 2/5
+Time to reindex: 95949400.00 ns
+1000000 rows, 100 bins, 3/5
+Time to reindex: 93043400.00 ns
+1000000 rows, 100 bins, 4/5
+Time to reindex: 128972500.00 ns
+1000000 rows, 100 bins, 5/5
+Time to reindex: 98522400.00 ns
+MultiIndexed DataFrame size: 40005768 bytes
+
+END BIN
+
+Annotated DataFrame size: 48049064 bytes
+1000000 rows, 1000 bins, 1/5
+Time to reindex: 113024900.00 ns
+1000000 rows, 1000 bins, 2/5
+Time to reindex: 128272699.00 ns
+1000000 rows, 1000 bins, 3/5
+Time to reindex: 127929800.00 ns
+1000000 rows, 1000 bins, 4/5
+Time to reindex: 115893400.00 ns
+1000000 rows, 1000 bins, 5/5
+Time to reindex: 113692000.00 ns
+MultiIndexed DataFrame size: 42049064 bytes
+
+END BIN
+
+Annotated DataFrame size: 48424232 bytes
+1000000 rows, 10000 bins, 1/5
+Time to reindex: 134033700.00 ns
+1000000 rows, 10000 bins, 2/5
+Time to reindex: 148256100.00 ns
+1000000 rows, 10000 bins, 3/5
+Time to reindex: 128842100.00 ns
+1000000 rows, 10000 bins, 4/5
+Time to reindex: 132511499.00 ns
+1000000 rows, 10000 bins, 5/5
+Time to reindex: 154569100.00 ns
+MultiIndexed DataFrame size: 42424232 bytes
+
+END BIN
+
+Annotated DataFrame size: 53713576 bytes
+1000000 rows, 100000 bins, 1/5
+Time to reindex: 176931299.00 ns
+1000000 rows, 100000 bins, 2/5
+Time to reindex: 208508100.00 ns
+1000000 rows, 100000 bins, 3/5
+Time to reindex: 204409700.00 ns
+1000000 rows, 100000 bins, 4/5
+Time to reindex: 162217100.00 ns
+1000000 rows, 100000 bins, 5/5
+Time to reindex: 154149400.00 ns
+MultiIndexed DataFrame size: 49713576 bytes
+
+END BIN
+
+
+END ROW
+
+Using rows: 10000000
+Annotated DataFrame size: 470000460 bytes
+10000000 rows, 10 bins, 1/5
+Time to reindex: 1413905073.00 ns
+10000000 rows, 10 bins, 2/5
+Time to reindex: 1217665249.00 ns
+10000000 rows, 10 bins, 3/5
+Time to reindex: 1255714354.00 ns
+10000000 rows, 10 bins, 4/5
+Time to reindex: 1099557335.00 ns
+10000000 rows, 10 bins, 5/5
+Time to reindex: 1098369225.00 ns
+MultiIndexed DataFrame size: 400000460 bytes
+
+END BIN
+
+Annotated DataFrame size: 470005768 bytes
+10000000 rows, 100 bins, 1/5
+Time to reindex: 1735596264.00 ns
+10000000 rows, 100 bins, 2/5
+Time to reindex: 1734360564.00 ns
+10000000 rows, 100 bins, 3/5
+Time to reindex: 1933409971.00 ns
+10000000 rows, 100 bins, 4/5
+Time to reindex: 1908208774.00 ns
+10000000 rows, 100 bins, 5/5
+Time to reindex: 1876025021.00 ns
+MultiIndexed DataFrame size: 400005768 bytes
+
+END BIN
+
+Annotated DataFrame size: 480049064 bytes
+10000000 rows, 1000 bins, 1/5
+Time to reindex: 2911582087.00 ns
+10000000 rows, 1000 bins, 2/5
+Time to reindex: 2879001930.00 ns
+10000000 rows, 1000 bins, 3/5
+Time to reindex: 3143039584.00 ns
+10000000 rows, 1000 bins, 4/5
+Time to reindex: 3138081583.00 ns
+10000000 rows, 1000 bins, 5/5
+Time to reindex: 2720961160.00 ns
+MultiIndexed DataFrame size: 420049064 bytes
+
+END BIN
+
+Annotated DataFrame size: 480424232 bytes
+10000000 rows, 10000 bins, 1/5
+Time to reindex: 2955901241.00 ns
+10000000 rows, 10000 bins, 2/5
+Time to reindex: 3197775518.00 ns
+10000000 rows, 10000 bins, 3/5
+Time to reindex: 3079583458.00 ns
+10000000 rows, 10000 bins, 4/5
+Time to reindex: 2998945353.00 ns
+10000000 rows, 10000 bins, 5/5
+Time to reindex: 3001276987.00 ns
+MultiIndexed DataFrame size: 420424232 bytes
+
+END BIN
+
+Annotated DataFrame size: 503713576 bytes
+10000000 rows, 100000 bins, 1/5
+Time to reindex: 3681072569.00 ns
+10000000 rows, 100000 bins, 2/5
+Time to reindex: 3564497764.00 ns
+10000000 rows, 100000 bins, 3/5
+Time to reindex: 3651824792.00 ns
+10000000 rows, 100000 bins, 4/5
+Time to reindex: 3525267301.00 ns
+10000000 rows, 100000 bins, 5/5
+Time to reindex: 3654067261.00 ns
+MultiIndexed DataFrame size: 463713576 bytes
+
+END BIN
+
+Annotated DataFrame size: 549816616 bytes
+10000000 rows, 1000000 bins, 1/5
+Time to reindex: 4044662541.00 ns
+10000000 rows, 1000000 bins, 2/5
+Time to reindex: 3989698738.00 ns
+10000000 rows, 1000000 bins, 3/5
+Time to reindex: 3941937837.00 ns
+10000000 rows, 1000000 bins, 4/5
+Time to reindex: 3952113041.00 ns
+10000000 rows, 1000000 bins, 5/5
+Time to reindex: 4189811644.00 ns
+MultiIndexed DataFrame size: 509816616 bytes
+
+END BIN
+
+
+END ROW
+

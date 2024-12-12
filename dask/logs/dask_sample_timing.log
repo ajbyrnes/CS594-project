@@ -1,0 +1,92 @@
+Dask Dashboard URL: http://127.0.0.1:8787/status
+Sampling rows: 1000
+1000 rows, 1/5
+Elapsed time: 52.04 seconds
+1000 rows, 2/5
+Elapsed time: 52.41 seconds
+1000 rows, 3/5
+Elapsed time: 53.31 seconds
+1000 rows, 4/5
+Elapsed time: 52.47 seconds
+1000 rows, 5/5
+Elapsed time: 53.95 seconds
+Best time: 52.04 seconds
+
+END ROW
+
+Sampling rows: 10000
+10000 rows, 1/5
+Elapsed time: 53.44 seconds
+10000 rows, 2/5
+Elapsed time: 52.93 seconds
+10000 rows, 3/5
+Elapsed time: 52.92 seconds
+10000 rows, 4/5
+Elapsed time: 53.07 seconds
+10000 rows, 5/5
+Elapsed time: 54.10 seconds
+Best time: 52.92 seconds
+
+END ROW
+
+Sampling rows: 100000
+100000 rows, 1/5
+Elapsed time: 53.32 seconds
+100000 rows, 2/5
+Elapsed time: 53.37 seconds
+100000 rows, 3/5
+Elapsed time: 53.30 seconds
+100000 rows, 4/5
+Elapsed time: 52.77 seconds
+100000 rows, 5/5
+Elapsed time: 53.01 seconds
+Best time: 52.77 seconds
+
+END ROW
+
+Sampling rows: 1000000
+1000000 rows, 1/5
+Elapsed time: 53.46 seconds
+1000000 rows, 2/5
+Elapsed time: 53.13 seconds
+1000000 rows, 3/5
+Elapsed time: 53.42 seconds
+1000000 rows, 4/5
+Elapsed time: 52.80 seconds
+1000000 rows, 5/5
+Elapsed time: 53.31 seconds
+Best time: 52.80 seconds
+
+END ROW
+
+Sampling rows: 10000000
+10000000 rows, 1/5
+Elapsed time: 54.80 seconds
+10000000 rows, 2/5
+Elapsed time: 53.18 seconds
+10000000 rows, 3/5
+Elapsed time: 53.24 seconds
+10000000 rows, 4/5
+Elapsed time: 53.01 seconds
+10000000 rows, 5/5
+Elapsed time: 53.45 seconds
+Best time: 53.01 seconds
+
+END ROW
+
+Sampling rows: 100000000
+100000000 rows, 1/5
+Elapsed time: 53.04 seconds
+100000000 rows, 2/5
+Elapsed time: 53.50 seconds
+100000000 rows, 3/5
+Elapsed time: 53.31 seconds
+100000000 rows, 4/5
+Elapsed time: 54.49 seconds
+100000000 rows, 5/5
+Elapsed time: 57.10 seconds
+Best time: 53.04 seconds
+
+END ROW
+
+Tasks finished, press any key to shutdown the cluster...

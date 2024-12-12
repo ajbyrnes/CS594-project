@@ -1,0 +1,552 @@
+NUM ROWS: 10
+SKETCH: [0]
+filter1a size: (5, 10)
+filter1a time: 0.32895800 ms +/- 0.05609496 ms
+filter1b size: (5, 10)
+filter1b time: 0.27342700 ms +/- 0.01646840 ms
+filter2a size: (5, 10)
+filter2a time: 0.25502099 ms +/- 0.03929111 ms
+filter2b size: (5, 10)
+filter2b time: 0.24833700 ms +/- 0.05233012 ms
+filter3a size: (5, 10)
+filter3a time: 0.31877100 ms +/- 0.04038483 ms
+filter3b size: (5, 10)
+filter3b time: 0.27988800 ms +/- 0.04364002 ms
+filter4a size: (5, 10)
+filter4a time: 1.87320399 ms +/- 0.13345840 ms
+filter4b size: (5, 10)
+filter4b time: 1.71688399 ms +/- 0.21436837 ms
+
+**********
+
+SKETCH: [9 0]
+filter1a size: (10, 10)
+filter1a time: 0.32067700 ms +/- 0.04768264 ms
+filter1b size: (10, 10)
+filter1b time: 0.24351200 ms +/- 0.03296581 ms
+filter2a size: (10, 10)
+filter2a time: 0.14798300 ms +/- 0.02633213 ms
+filter2b size: (10, 10)
+filter2b time: 0.07976600 ms +/- 0.01957330 ms
+filter3a size: (10, 10)
+filter3a time: 0.30896200 ms +/- 0.02093809 ms
+filter3b size: (10, 10)
+filter3b time: 0.24798200 ms +/- 0.03037969 ms
+filter4a size: (10, 10)
+filter4a time: 2.02099899 ms +/- 0.12120784 ms
+filter4b size: (10, 10)
+filter4b time: 1.63935799 ms +/- 0.10000775 ms
+
+**********
+
+SKETCH: [0 9]
+filter1a size: (10, 10)
+filter1a time: 0.30725100 ms +/- 0.03791049 ms
+filter1b size: (10, 10)
+filter1b time: 0.25878400 ms +/- 0.04145792 ms
+filter2a size: (10, 10)
+filter2a time: 0.15125700 ms +/- 0.02600064 ms
+filter2b size: (10, 10)
+filter2b time: 0.08533500 ms +/- 0.02215438 ms
+filter3a size: (10, 10)
+filter3a time: 0.32216100 ms +/- 0.04427450 ms
+filter3b size: (10, 10)
+filter3b time: 0.26833599 ms +/- 0.05202245 ms
+filter4a size: (10, 10)
+filter4a time: 2.05886199 ms +/- 0.11755648 ms
+filter4b size: (10, 10)
+filter4b time: 1.63054200 ms +/- 0.09404444 ms
+
+**********
+
+SKETCH: [0 9]
+filter1a size: (10, 10)
+filter1a time: 0.29740900 ms +/- 0.01712179 ms
+filter1b size: (10, 10)
+filter1b time: 0.24139199 ms +/- 0.02065866 ms
+filter2a size: (10, 10)
+filter2a time: 0.13930100 ms +/- 0.01727424 ms
+filter2b size: (10, 10)
+filter2b time: 0.08547500 ms +/- 0.03054749 ms
+filter3a size: (10, 10)
+filter3a time: 0.32019100 ms +/- 0.04080596 ms
+filter3b size: (10, 10)
+filter3b time: 0.26109300 ms +/- 0.05166381 ms
+filter4a size: (10, 10)
+filter4a time: 2.04062799 ms +/- 0.15136551 ms
+filter4b size: (10, 10)
+filter4b time: 1.67985199 ms +/- 0.20007952 ms
+
+**********
+
+NUM ROWS: 100
+SKETCH: [5]
+filter1a size: (15, 10)
+filter1a time: 0.31856000 ms +/- 0.03020383 ms
+filter1b size: (15, 10)
+filter1b time: 0.28628300 ms +/- 0.02041141 ms
+filter2a size: (15, 10)
+filter2a time: 0.26322100 ms +/- 0.02235743 ms
+filter2b size: (15, 10)
+filter2b time: 0.22068700 ms +/- 0.02572167 ms
+filter3a size: (15, 10)
+filter3a time: 0.33405700 ms +/- 0.03598036 ms
+filter3b size: (15, 10)
+filter3b time: 0.29509000 ms +/- 0.03966807 ms
+filter4a size: (15, 10)
+filter4a time: 1.87700399 ms +/- 0.11359860 ms
+filter4b size: (15, 10)
+filter4b time: 1.77696199 ms +/- 0.21313791 ms
+
+**********
+
+SKETCH: [4 1]
+filter1a size: (17, 10)
+filter1a time: 0.48634300 ms +/- 0.03123637 ms
+filter1b size: (17, 10)
+filter1b time: 0.42399699 ms +/- 0.05754778 ms
+filter2a size: (17, 10)
+filter2a time: 0.31091300 ms +/- 0.03567110 ms
+filter2b size: (17, 10)
+filter2b time: 0.23560800 ms +/- 0.02953177 ms
+filter3a size: (17, 10)
+filter3a time: 0.50156700 ms +/- 0.04388455 ms
+filter3b size: (17, 10)
+filter3b time: 0.42756400 ms +/- 0.05968410 ms
+filter4a size: (17, 10)
+filter4a time: 2.14554599 ms +/- 0.10906316 ms
+filter4b size: (17, 10)
+filter4b time: 1.83474299 ms +/- 0.08828456 ms
+
+**********
+
+SKETCH: [5 2 1 3]
+filter1a size: (31, 10)
+filter1a time: 0.80117300 ms +/- 0.05944765 ms
+filter1b size: (31, 10)
+filter1b time: 0.65282300 ms +/- 0.03420329 ms
+filter2a size: (31, 10)
+filter2a time: 0.41209000 ms +/- 0.03040856 ms
+filter2b size: (31, 10)
+filter2b time: 0.27578800 ms +/- 0.02725897 ms
+filter3a size: (31, 10)
+filter3a time: 0.81287599 ms +/- 0.07073652 ms
+filter3b size: (31, 10)
+filter3b time: 0.67052700 ms +/- 0.05085212 ms
+filter4a size: (31, 10)
+filter4a time: 2.87575199 ms +/- 0.51414873 ms
+filter4b size: (31, 10)
+filter4b time: 2.06404300 ms +/- 0.08521369 ms
+
+**********
+
+SKETCH: [2 3 9 0 5 4 1 8]
+filter1a size: (78, 10)
+filter1a time: 1.40236899 ms +/- 0.18175709 ms
+filter1b size: (78, 10)
+filter1b time: 1.14121400 ms +/- 0.07335433 ms
+filter2a size: (78, 10)
+filter2a time: 0.61615099 ms +/- 0.04621162 ms
+filter2b size: (78, 10)
+filter2b time: 0.37139700 ms +/- 0.06369722 ms
+filter3a size: (78, 10)
+filter3a time: 1.44435700 ms +/- 0.11213834 ms
+filter3b size: (78, 10)
+filter3b time: 1.15460700 ms +/- 0.09459486 ms
+filter4a size: (78, 10)
+filter4a time: 3.76144498 ms +/- 0.28657526 ms
+filter4b size: (78, 10)
+filter4b time: 2.75933599 ms +/- 1.12487160 ms
+
+**********
+
+NUM ROWS: 1000
+SKETCH: [2]
+filter1a size: (22, 10)
+filter1a time: 0.34173900 ms +/- 0.05521671 ms
+filter1b size: (22, 10)
+filter1b time: 0.28944300 ms +/- 0.02772273 ms
+filter2a size: (22, 10)
+filter2a time: 0.25730500 ms +/- 0.02948678 ms
+filter2b size: (22, 10)
+filter2b time: 0.21218600 ms +/- 0.02592481 ms
+filter3a size: (22, 10)
+filter3a time: 0.32262500 ms +/- 0.04451868 ms
+filter3b size: (22, 10)
+filter3b time: 0.47948300 ms +/- 0.25451338 ms
+filter4a size: (22, 10)
+filter4a time: 1.87388799 ms +/- 0.12107416 ms
+filter4b size: (22, 10)
+filter4b time: 1.71620000 ms +/- 0.11859692 ms
+
+**********
+
+SKETCH: [0 5]
+filter1a size: (298, 10)
+filter1a time: 0.51312899 ms +/- 0.04354801 ms
+filter1b size: (298, 10)
+filter1b time: 0.44583200 ms +/- 0.04091626 ms
+filter2a size: (298, 10)
+filter2a time: 0.33960000 ms +/- 0.03806179 ms
+filter2b size: (298, 10)
+filter2b time: 0.29078900 ms +/- 0.05304382 ms
+filter3a size: (298, 10)
+filter3a time: 0.49529600 ms +/- 0.02200473 ms
+filter3b size: (298, 10)
+filter3b time: 0.43573800 ms +/- 0.03024882 ms
+filter4a size: (298, 10)
+filter4a time: 2.30282599 ms +/- 0.18287201 ms
+filter4b size: (298, 10)
+filter4b time: 1.89486699 ms +/- 0.18712270 ms
+
+**********
+
+SKETCH: [5 9 0 1]
+filter1a size: (759, 10)
+filter1a time: 1.08389700 ms +/- 0.45869527 ms
+filter1b size: (759, 10)
+filter1b time: 0.72925000 ms +/- 0.07770816 ms
+filter2a size: (759, 10)
+filter2a time: 0.48266700 ms +/- 0.08168598 ms
+filter2b size: (759, 10)
+filter2b time: 0.31148599 ms +/- 0.02102978 ms
+filter3a size: (759, 10)
+filter3a time: 0.82071800 ms +/- 0.04139519 ms
+filter3b size: (759, 10)
+filter3b time: 0.73197300 ms +/- 0.03492446 ms
+filter4a size: (759, 10)
+filter4a time: 2.75421299 ms +/- 0.21476999 ms
+filter4b size: (759, 10)
+filter4b time: 2.20803099 ms +/- 0.14389969 ms
+
+**********
+
+SKETCH: [4 2 1 5 8 9 0 6]
+filter1a size: (1000, 10)
+filter1a time: 1.17348800 ms +/- 0.07433031 ms
+filter1b size: (1000, 10)
+filter1b time: 0.95761700 ms +/- 0.08070671 ms
+filter2a size: (1000, 10)
+filter2a time: 0.42943799 ms +/- 0.03753712 ms
+filter2b size: (1000, 10)
+filter2b time: 0.18479100 ms +/- 0.03344097 ms
+filter3a size: (1000, 10)
+filter3a time: 1.31571200 ms +/- 0.21830010 ms
+filter3b size: (1000, 10)
+filter3b time: 1.18247900 ms +/- 0.28416919 ms
+filter4a size: (1000, 10)
+filter4a time: 3.78451198 ms +/- 0.20982397 ms
+filter4b size: (1000, 10)
+filter4b time: 2.51851499 ms +/- 0.14596053 ms
+
+**********
+
+NUM ROWS: 10000
+SKETCH: [5]
+filter1a size: (1654, 10)
+filter1a time: 0.42758300 ms +/- 0.05762031 ms
+filter1b size: (1654, 10)
+filter1b time: 0.44390600 ms +/- 0.08777997 ms
+filter2a size: (1654, 10)
+filter2a time: 0.34518000 ms +/- 0.06382222 ms
+filter2b size: (1654, 10)
+filter2b time: 0.30418100 ms +/- 0.03585179 ms
+filter3a size: (1654, 10)
+filter3a time: 0.43179600 ms +/- 0.06449905 ms
+filter3b size: (1654, 10)
+filter3b time: 0.36457800 ms +/- 0.04971436 ms
+filter4a size: (1654, 10)
+filter4a time: 2.30892499 ms +/- 0.18130000 ms
+filter4b size: (1654, 10)
+filter4b time: 2.09558299 ms +/- 0.09976037 ms
+
+**********
+
+SKETCH: [9 2]
+filter1a size: (3819, 10)
+filter1a time: 0.61986300 ms +/- 0.03394979 ms
+filter1b size: (3819, 10)
+filter1b time: 0.60902700 ms +/- 0.10477645 ms
+filter2a size: (3819, 10)
+filter2a time: 0.51767500 ms +/- 0.09334787 ms
+filter2b size: (3819, 10)
+filter2b time: 0.43702699 ms +/- 0.07866634 ms
+filter3a size: (3819, 10)
+filter3a time: 0.67237800 ms +/- 0.06419978 ms
+filter3b size: (3819, 10)
+filter3b time: 0.59958000 ms +/- 0.07096370 ms
+filter4a size: (3819, 10)
+filter4a time: 3.07512399 ms +/- 0.52658119 ms
+filter4b size: (3819, 10)
+filter4b time: 2.42011499 ms +/- 0.12647965 ms
+
+**********
+
+SKETCH: [4 2 3 0]
+filter1a size: (3687, 10)
+filter1a time: 0.94373600 ms +/- 0.09019243 ms
+filter1b size: (3687, 10)
+filter1b time: 0.83965300 ms +/- 0.07436442 ms
+filter2a size: (3687, 10)
+filter2a time: 0.58742199 ms +/- 0.06126887 ms
+filter2b size: (3687, 10)
+filter2b time: 0.41044300 ms +/- 0.02677470 ms
+filter3a size: (3687, 10)
+filter3a time: 0.95739900 ms +/- 0.09458514 ms
+filter3b size: (3687, 10)
+filter3b time: 0.82256400 ms +/- 0.07434724 ms
+filter4a size: (3687, 10)
+filter4a time: 3.47381299 ms +/- 0.35416484 ms
+filter4b size: (3687, 10)
+filter4b time: 2.63219599 ms +/- 0.15499568 ms
+
+**********
+
+SKETCH: [3 0 2 7 8 5 9 4]
+filter1a size: (8583, 10)
+filter1a time: 1.75270799 ms +/- 0.15763036 ms
+filter1b size: (8583, 10)
+filter1b time: 1.43858200 ms +/- 0.09473710 ms
+filter2a size: (8583, 10)
+filter2a time: 0.91449000 ms +/- 0.10272490 ms
+filter2b size: (8583, 10)
+filter2b time: 0.63020100 ms +/- 0.06380303 ms
+filter3a size: (8583, 10)
+filter3a time: 1.71831099 ms +/- 0.13977335 ms
+filter3b size: (8583, 10)
+filter3b time: 1.79881600 ms +/- 1.10924742 ms
+filter4a size: (8583, 10)
+filter4a time: 4.36373698 ms +/- 0.32891967 ms
+filter4b size: (8583, 10)
+filter4b time: 3.33378999 ms +/- 0.19562867 ms
+
+**********
+
+NUM ROWS: 100000
+SKETCH: [4]
+filter1a size: (3535, 10)
+filter1a time: 0.49361600 ms +/- 0.03118021 ms
+filter1b size: (3535, 10)
+filter1b time: 0.45922200 ms +/- 0.03189118 ms
+filter2a size: (3535, 10)
+filter2a time: 0.45814200 ms +/- 0.04563671 ms
+filter2b size: (3535, 10)
+filter2b time: 0.40514300 ms +/- 0.05948914 ms
+filter3a size: (3535, 10)
+filter3a time: 0.52649199 ms +/- 0.06118706 ms
+filter3b size: (3535, 10)
+filter3b time: 0.46691900 ms +/- 0.02625015 ms
+filter4a size: (3535, 10)
+filter4a time: 2.71952100 ms +/- 0.29731434 ms
+filter4b size: (3535, 10)
+filter4b time: 2.47930399 ms +/- 0.15372326 ms
+
+**********
+
+SKETCH: [3 1]
+filter1a size: (12421, 10)
+filter1a time: 0.99664399 ms +/- 0.09886441 ms
+filter1b size: (12421, 10)
+filter1b time: 0.93843000 ms +/- 0.09547458 ms
+filter2a size: (12421, 10)
+filter2a time: 0.80941500 ms +/- 0.06348420 ms
+filter2b size: (12421, 10)
+filter2b time: 0.72589200 ms +/- 0.06121895 ms
+filter3a size: (12421, 10)
+filter3a time: 1.01088599 ms +/- 0.09381679 ms
+filter3b size: (12421, 10)
+filter3b time: 0.96437000 ms +/- 0.13996269 ms
+filter4a size: (12421, 10)
+filter4a time: 3.68171999 ms +/- 0.30643593 ms
+filter4b size: (12421, 10)
+filter4b time: 3.14342099 ms +/- 0.31259991 ms
+
+**********
+
+SKETCH: [2 4 3 0]
+filter1a size: (36409, 10)
+filter1a time: 2.06660300 ms +/- 0.15202803 ms
+filter1b size: (36409, 10)
+filter1b time: 2.05293199 ms +/- 0.21841597 ms
+filter2a size: (36409, 10)
+filter2a time: 1.62492400 ms +/- 0.09863831 ms
+filter2b size: (36409, 10)
+filter2b time: 1.45496399 ms +/- 0.07617836 ms
+filter3a size: (36409, 10)
+filter3a time: 2.01176000 ms +/- 0.13424007 ms
+filter3b size: (36409, 10)
+filter3b time: 1.97889799 ms +/- 0.48654641 ms
+filter4a size: (36409, 10)
+filter4a time: 4.78508299 ms +/- 0.64345073 ms
+filter4b size: (36409, 10)
+filter4b time: 4.04143498 ms +/- 0.27655713 ms
+
+**********
+
+SKETCH: [7 1 9 8 4 5 2 6]
+filter1a size: (88063, 10)
+filter1a time: 4.25504399 ms +/- 0.23521859 ms
+filter1b size: (88063, 10)
+filter1b time: 3.84545099 ms +/- 0.15920721 ms
+filter2a size: (88063, 10)
+filter2a time: 3.30282899 ms +/- 0.11930082 ms
+filter2b size: (88063, 10)
+filter2b time: 3.41869299 ms +/- 1.54732807 ms
+filter3a size: (88063, 10)
+filter3a time: 4.15848099 ms +/- 0.19794451 ms
+filter3b size: (88063, 10)
+filter3b time: 3.87277000 ms +/- 0.13182611 ms
+filter4a size: (88063, 10)
+filter4a time: 7.80388398 ms +/- 0.60320900 ms
+filter4b size: (88063, 10)
+filter4b time: 6.77543899 ms +/- 0.25735837 ms
+
+**********
+
+NUM ROWS: 1000000
+SKETCH: [9]
+filter1a size: (208843, 10)
+filter1a time: 8.35601998 ms +/- 0.44522267 ms
+filter1b size: (208843, 10)
+filter1b time: 8.40911199 ms +/- 1.64483935 ms
+filter2a size: (208843, 10)
+filter2a time: 8.36400499 ms +/- 1.11898460 ms
+filter2b size: (208843, 10)
+filter2b time: 8.22200098 ms +/- 0.54240858 ms
+filter3a size: (208843, 10)
+filter3a time: 8.50853399 ms +/- 0.54803042 ms
+filter3b size: (208843, 10)
+filter3b time: 8.25887499 ms +/- 0.44559775 ms
+filter4a size: (208843, 10)
+filter4a time: 13.63649698 ms +/- 0.80318562 ms
+filter4b size: (208843, 10)
+filter4b time: 13.96785898 ms +/- 3.06055446 ms
+
+**********
+
+SKETCH: [2 9]
+filter1a size: (421976, 10)
+filter1a time: 15.30207599 ms +/- 1.13711113 ms
+filter1b size: (421976, 10)
+filter1b time: 14.82872798 ms +/- 0.65258616 ms
+filter2a size: (421976, 10)
+filter2a time: 15.45191198 ms +/- 2.92881759 ms
+filter2b size: (421976, 10)
+filter2b time: 16.23551998 ms +/- 2.41269947 ms
+filter3a size: (421976, 10)
+filter3a time: 15.91337197 ms +/- 2.27137318 ms
+filter3b size: (421976, 10)
+filter3b time: 14.72775898 ms +/- 0.59499217 ms
+filter4a size: (421976, 10)
+filter4a time: 20.37795196 ms +/- 2.61057678 ms
+filter4b size: (421976, 10)
+filter4b time: 19.83453897 ms +/- 1.08547643 ms
+
+**********
+
+SKETCH: [4 5 7 9]
+filter1a size: (440526, 10)
+filter1a time: 16.44017097 ms +/- 0.71618708 ms
+filter1b size: (440526, 10)
+filter1b time: 16.29479198 ms +/- 0.82791969 ms
+filter2a size: (440526, 10)
+filter2a time: 15.85630297 ms +/- 1.26817673 ms
+filter2b size: (440526, 10)
+filter2b time: 15.88376198 ms +/- 3.55685142 ms
+filter3a size: (440526, 10)
+filter3a time: 16.96324198 ms +/- 2.17366241 ms
+filter3b size: (440526, 10)
+filter3b time: 16.11502996 ms +/- 0.81282932 ms
+filter4a size: (440526, 10)
+filter4a time: 21.65925195 ms +/- 0.79530999 ms
+filter4b size: (440526, 10)
+filter4b time: 21.72186895 ms +/- 5.07477715 ms
+
+**********
+
+SKETCH: [0 5 8 1 7 2 4 3]
+filter1a size: (695943, 10)
+filter1a time: 31.08351394 ms +/- 3.20636239 ms
+filter1b size: (695943, 10)
+filter1b time: 30.87721295 ms +/- 4.34758234 ms
+filter2a size: (695943, 10)
+filter2a time: 24.36723195 ms +/- 1.34107508 ms
+filter2b size: (695943, 10)
+filter2b time: 23.29707897 ms +/- 1.42968350 ms
+filter3a size: (695943, 10)
+filter3a time: 30.72076597 ms +/- 1.10935710 ms
+filter3b size: (695943, 10)
+filter3b time: 31.82798797 ms +/- 2.22568765 ms
+filter4a size: (695943, 10)
+filter4a time: 36.25717503 ms +/- 4.69187905 ms
+filter4b size: (695943, 10)
+filter4b time: 29.16795903 ms +/- 2.62763921 ms
+
+**********
+
+NUM ROWS: 10855959
+SKETCH: [5]
+filter1a size: (1779524, 10)
+filter1a time: 82.09504034 ms +/- 10.86527701 ms
+filter1b size: (1779524, 10)
+filter1b time: 77.69518507 ms +/- 4.14465518 ms
+filter2a size: (1779524, 10)
+filter2a time: 80.07320614 ms +/- 4.08202953 ms
+filter2b size: (1779524, 10)
+filter2b time: 77.89934631 ms +/- 4.22546740 ms
+filter3a size: (1779524, 10)
+filter3a time: 79.23623606 ms +/- 4.62742686 ms
+filter3b size: (1779524, 10)
+filter3b time: 77.19615634 ms +/- 2.24877115 ms
+filter4a size: (1779524, 10)
+filter4a time: 105.76934334 ms +/- 5.28896461 ms
+filter4b size: (1779524, 10)
+filter4b time: 107.25852137 ms +/- 5.99041359 ms
+
+**********
+
+SKETCH: [0 2]
+filter1a size: (2766168, 10)
+filter1a time: 117.75441213 ms +/- 6.13644125 ms
+filter1b size: (2766168, 10)
+filter1b time: 115.05234367 ms +/- 2.97772499 ms
+filter2a size: (2766168, 10)
+filter2a time: 116.34461413 ms +/- 5.09040219 ms
+filter2b size: (2766168, 10)
+filter2b time: 112.49312342 ms +/- 2.69984057 ms
+filter3a size: (2766168, 10)
+filter3a time: 118.03238722 ms +/- 7.80261825 ms
+filter3b size: (2766168, 10)
+filter3b time: 117.25438838 ms +/- 6.34985529 ms
+filter4a size: (2766168, 10)
+filter4a time: 146.26567278 ms +/- 7.11700028 ms
+filter4b size: (2766168, 10)
+filter4b time: 145.43787618 ms +/- 7.15927778 ms
+
+**********
+
+SKETCH: [1 9 6 8]
+filter1a size: (4786415, 10)
+filter1a time: 193.46560332 ms +/- 8.45785179 ms
+filter1b size: (4786415, 10)
+filter1b time: 186.15544047 ms +/- 5.82150403 ms
+filter2a size: (4786415, 10)
+filter2a time: 191.63922592 ms +/- 12.62836511 ms
+filter2b size: (4786415, 10)
+filter2b time: 184.08033009 ms +/- 10.18705939 ms
+filter3a size: (4786415, 10)
+filter3a time: 194.40389876 ms +/- 9.46783431 ms
+filter3b size: (4786415, 10)
+filter3b time: 188.68097830 ms +/- 7.25881679 ms
+filter4a size: (4786415, 10)
+filter4a time: 221.79053318 ms +/- 13.29110349 ms
+filter4b size: (4786415, 10)
+filter4b time: 214.63240880 ms +/- 11.19765444 ms
+
+**********
+
+SKETCH: [1 5 3 8 4 6 0 2]
+filter1a size: (8187041, 10)
+filter1a time: 323.80524764 ms +/- 14.33629813 ms
+filter1b size: (8187041, 10)
+filter1b time: 315.66488582 ms +/- 11.49337469 ms

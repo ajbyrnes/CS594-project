@@ -1,0 +1,306 @@
+Using data: data/test_set_batch1.csv
+Using rows: 1000
+Unannotated DataFrame size: 46000 bytes
+1000 rows, 10 bins, 1/5
+Time to annotate: 5136501.00 ns
+1000 rows, 10 bins, 2/5
+Time to annotate: 1630200.00 ns
+1000 rows, 10 bins, 3/5
+Time to annotate: 1442500.00 ns
+1000 rows, 10 bins, 4/5
+Time to annotate: 1317300.00 ns
+1000 rows, 10 bins, 5/5
+Time to annotate: 1310200.00 ns
+Annotated DataFrame size: 47460 bytes
+
+END BIN
+
+1000 rows, 100 bins, 1/5
+Time to annotate: 3250401.00 ns
+1000 rows, 100 bins, 2/5
+Time to annotate: 3241600.00 ns
+1000 rows, 100 bins, 3/5
+Time to annotate: 2904200.00 ns
+1000 rows, 100 bins, 4/5
+Time to annotate: 2914301.00 ns
+1000 rows, 100 bins, 5/5
+Time to annotate: 2856500.00 ns
+Annotated DataFrame size: 52768 bytes
+
+END BIN
+
+
+END ROW
+
+Using rows: 10000
+Unannotated DataFrame size: 460000 bytes
+10000 rows, 10 bins, 1/5
+Time to annotate: 2189101.00 ns
+10000 rows, 10 bins, 2/5
+Time to annotate: 1761700.00 ns
+10000 rows, 10 bins, 3/5
+Time to annotate: 1842900.00 ns
+10000 rows, 10 bins, 4/5
+Time to annotate: 2433600.00 ns
+10000 rows, 10 bins, 5/5
+Time to annotate: 1833000.00 ns
+Annotated DataFrame size: 470460 bytes
+
+END BIN
+
+10000 rows, 100 bins, 1/5
+Time to annotate: 3504401.00 ns
+10000 rows, 100 bins, 2/5
+Time to annotate: 3421700.00 ns
+10000 rows, 100 bins, 3/5
+Time to annotate: 3327100.00 ns
+10000 rows, 100 bins, 4/5
+Time to annotate: 3460801.00 ns
+10000 rows, 100 bins, 5/5
+Time to annotate: 3593400.00 ns
+Annotated DataFrame size: 475768 bytes
+
+END BIN
+
+10000 rows, 1000 bins, 1/5
+Time to annotate: 19619102.00 ns
+10000 rows, 1000 bins, 2/5
+Time to annotate: 17930602.00 ns
+10000 rows, 1000 bins, 3/5
+Time to annotate: 17833802.00 ns
+10000 rows, 1000 bins, 4/5
+Time to annotate: 18339501.00 ns
+10000 rows, 1000 bins, 5/5
+Time to annotate: 18048902.00 ns
+Annotated DataFrame size: 529064 bytes
+
+END BIN
+
+
+END ROW
+
+Using rows: 100000
+Unannotated DataFrame size: 4600000 bytes
+100000 rows, 10 bins, 1/5
+Time to annotate: 5353301.00 ns
+100000 rows, 10 bins, 2/5
+Time to annotate: 5629101.00 ns
+100000 rows, 10 bins, 3/5
+Time to annotate: 5567400.00 ns
+100000 rows, 10 bins, 4/5
+Time to annotate: 5190901.00 ns
+100000 rows, 10 bins, 5/5
+Time to annotate: 5591000.00 ns
+Annotated DataFrame size: 4700460 bytes
+
+END BIN
+
+100000 rows, 100 bins, 1/5
+Time to annotate: 9528201.00 ns
+100000 rows, 100 bins, 2/5
+Time to annotate: 9935501.00 ns
+100000 rows, 100 bins, 3/5
+Time to annotate: 10179901.00 ns
+100000 rows, 100 bins, 4/5
+Time to annotate: 11348001.00 ns
+100000 rows, 100 bins, 5/5
+Time to annotate: 11499001.00 ns
+Annotated DataFrame size: 4705768 bytes
+
+END BIN
+
+100000 rows, 1000 bins, 1/5
+Time to annotate: 36504804.00 ns
+100000 rows, 1000 bins, 2/5
+Time to annotate: 26833102.00 ns
+100000 rows, 1000 bins, 3/5
+Time to annotate: 26771603.00 ns
+100000 rows, 1000 bins, 4/5
+Time to annotate: 27305303.00 ns
+100000 rows, 1000 bins, 5/5
+Time to annotate: 28689702.00 ns
+Annotated DataFrame size: 4849064 bytes
+
+END BIN
+
+100000 rows, 10000 bins, 1/5
+Time to annotate: 237766823.00 ns
+100000 rows, 10000 bins, 2/5
+Time to annotate: 249834525.00 ns
+100000 rows, 10000 bins, 3/5
+Time to annotate: 243021223.00 ns
+100000 rows, 10000 bins, 4/5
+Time to annotate: 240536923.00 ns
+100000 rows, 10000 bins, 5/5
+Time to annotate: 235967124.00 ns
+Annotated DataFrame size: 5224232 bytes
+
+END BIN
+
+
+END ROW
+
+Using rows: 1000000
+Unannotated DataFrame size: 46000000 bytes
+1000000 rows, 10 bins, 1/5
+Time to annotate: 44436304.00 ns
+1000000 rows, 10 bins, 2/5
+Time to annotate: 43196304.00 ns
+1000000 rows, 10 bins, 3/5
+Time to annotate: 44790805.00 ns
+1000000 rows, 10 bins, 4/5
+Time to annotate: 46112305.00 ns
+1000000 rows, 10 bins, 5/5
+Time to annotate: 46162904.00 ns
+Annotated DataFrame size: 47000460 bytes
+
+END BIN
+
+1000000 rows, 100 bins, 1/5
+Time to annotate: 74159808.00 ns
+1000000 rows, 100 bins, 2/5
+Time to annotate: 71381907.00 ns
+1000000 rows, 100 bins, 3/5
+Time to annotate: 71224207.00 ns
+1000000 rows, 100 bins, 4/5
+Time to annotate: 71298407.00 ns
+1000000 rows, 100 bins, 5/5
+Time to annotate: 73142507.00 ns
+Annotated DataFrame size: 47005768 bytes
+
+END BIN
+
+1000000 rows, 1000 bins, 1/5
+Time to annotate: 113545311.00 ns
+1000000 rows, 1000 bins, 2/5
+Time to annotate: 114864511.00 ns
+1000000 rows, 1000 bins, 3/5
+Time to annotate: 116881612.00 ns
+1000000 rows, 1000 bins, 4/5
+Time to annotate: 134314414.00 ns
+1000000 rows, 1000 bins, 5/5
+Time to annotate: 137281314.00 ns
+Annotated DataFrame size: 48049064 bytes
+
+END BIN
+
+1000000 rows, 10000 bins, 1/5
+Time to annotate: 373546337.00 ns
+1000000 rows, 10000 bins, 2/5
+Time to annotate: 360995536.00 ns
+1000000 rows, 10000 bins, 3/5
+Time to annotate: 388368839.00 ns
+1000000 rows, 10000 bins, 4/5
+Time to annotate: 360749937.00 ns
+1000000 rows, 10000 bins, 5/5
+Time to annotate: 413919541.00 ns
+Annotated DataFrame size: 48424232 bytes
+
+END BIN
+
+1000000 rows, 100000 bins, 1/5
+Time to annotate: 4130370915.00 ns
+1000000 rows, 100000 bins, 2/5
+Time to annotate: 3876785198.00 ns
+1000000 rows, 100000 bins, 3/5
+Time to annotate: 3892976945.00 ns
+1000000 rows, 100000 bins, 4/5
+Time to annotate: 3838583510.00 ns
+1000000 rows, 100000 bins, 5/5
+Time to annotate: 3881437062.00 ns
+Annotated DataFrame size: 53713576 bytes
+
+END BIN
+
+
+END ROW
+
+Using rows: 10000000
+Unannotated DataFrame size: 460000000 bytes
+10000000 rows, 10 bins, 1/5
+Time to annotate: 440442026.00 ns
+10000000 rows, 10 bins, 2/5
+Time to annotate: 429016023.00 ns
+10000000 rows, 10 bins, 3/5
+Time to annotate: 439401326.00 ns
+10000000 rows, 10 bins, 4/5
+Time to annotate: 435090025.00 ns
+10000000 rows, 10 bins, 5/5
+Time to annotate: 444442527.00 ns
+Annotated DataFrame size: 470000460 bytes
+
+END BIN
+
+10000000 rows, 100 bins, 1/5
+Time to annotate: 713688605.00 ns
+10000000 rows, 100 bins, 2/5
+Time to annotate: 699570400.00 ns
+10000000 rows, 100 bins, 3/5
+Time to annotate: 698961800.00 ns
+10000000 rows, 100 bins, 4/5
+Time to annotate: 707584803.00 ns
+10000000 rows, 100 bins, 5/5
+Time to annotate: 706540502.00 ns
+Annotated DataFrame size: 470005768 bytes
+
+END BIN
+
+10000000 rows, 1000 bins, 1/5
+Time to annotate: 1002092909.00 ns
+10000000 rows, 1000 bins, 2/5
+Time to annotate: 1024700228.00 ns
+10000000 rows, 1000 bins, 3/5
+Time to annotate: 993098733.00 ns
+10000000 rows, 1000 bins, 4/5
+Time to annotate: 1024823328.00 ns
+10000000 rows, 1000 bins, 5/5
+Time to annotate: 1061487921.00 ns
+Annotated DataFrame size: 480049064 bytes
+
+END BIN
+
+10000000 rows, 10000 bins, 1/5
+Time to annotate: 1537978641.00 ns
+10000000 rows, 10000 bins, 2/5
+Time to annotate: 1503817353.00 ns
+10000000 rows, 10000 bins, 3/5
+Time to annotate: 1503948344.00 ns
+10000000 rows, 10000 bins, 4/5
+Time to annotate: 1579036907.00 ns
+10000000 rows, 10000 bins, 5/5
+Time to annotate: 1492569107.00 ns
+Annotated DataFrame size: 480424232 bytes
+
+END BIN
+
+10000000 rows, 100000 bins, 1/5
+Time to annotate: 4913842656.00 ns
+10000000 rows, 100000 bins, 2/5
+Time to annotate: 4948291074.00 ns
+10000000 rows, 100000 bins, 3/5
+Time to annotate: 5070654211.00 ns
+10000000 rows, 100000 bins, 4/5
+Time to annotate: 4891182944.00 ns
+10000000 rows, 100000 bins, 5/5
+Time to annotate: 4871744696.00 ns
+Annotated DataFrame size: 503713576 bytes
+
+END BIN
+
+10000000 rows, 1000000 bins, 1/5
+Time to annotate: 46698905446.00 ns
+10000000 rows, 1000000 bins, 2/5
+Time to annotate: 47704930965.00 ns
+10000000 rows, 1000000 bins, 3/5
+Time to annotate: 47733633702.00 ns
+10000000 rows, 1000000 bins, 4/5
+Time to annotate: 48191669692.00 ns
+10000000 rows, 1000000 bins, 5/5
+Time to annotate: 47955039913.00 ns
+Annotated DataFrame size: 549816616 bytes
+
+END BIN
+
+
+END ROW
+

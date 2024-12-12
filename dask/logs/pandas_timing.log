@@ -1,0 +1,535 @@
+Dask Dashboard URL: http://127.0.0.1:8787/status
+1000 rows, add, 1/5
+Elapsed time: 293300.00 ns
+1000 rows, add, 2/5
+Elapsed time: 261400.00 ns
+1000 rows, add, 3/5
+Elapsed time: 167800.00 ns
+1000 rows, add, 4/5
+Elapsed time: 191900.00 ns
+1000 rows, add, 5/5
+Elapsed time: 117400.00 ns
+
+END FUNC
+
+1000 rows, mul, 1/5
+Elapsed time: 216200.00 ns
+1000 rows, mul, 2/5
+Elapsed time: 159400.00 ns
+1000 rows, mul, 3/5
+Elapsed time: 194300.00 ns
+1000 rows, mul, 4/5
+Elapsed time: 147500.00 ns
+1000 rows, mul, 5/5
+Elapsed time: 139600.00 ns
+
+END FUNC
+
+1000 rows, cumsum, 1/5
+Elapsed time: 156600.00 ns
+1000 rows, cumsum, 2/5
+Elapsed time: 135700.00 ns
+1000 rows, cumsum, 3/5
+Elapsed time: 71400.00 ns
+1000 rows, cumsum, 4/5
+Elapsed time: 68400.00 ns
+1000 rows, cumsum, 5/5
+Elapsed time: 72500.00 ns
+
+END FUNC
+
+1000 rows, abs, 1/5
+Elapsed time: 48900.00 ns
+1000 rows, abs, 2/5
+Elapsed time: 42600.00 ns
+1000 rows, abs, 3/5
+Elapsed time: 60400.00 ns
+1000 rows, abs, 4/5
+Elapsed time: 33800.00 ns
+1000 rows, abs, 5/5
+Elapsed time: 40400.00 ns
+
+END FUNC
+
+1000 rows, mean, 1/5
+Elapsed time: 152400.00 ns
+1000 rows, mean, 2/5
+Elapsed time: 74400.00 ns
+1000 rows, mean, 3/5
+Elapsed time: 79600.00 ns
+1000 rows, mean, 4/5
+Elapsed time: 85200.00 ns
+1000 rows, mean, 5/5
+Elapsed time: 87100.00 ns
+
+END FUNC
+
+1000 rows, std, 1/5
+Elapsed time: 111800.00 ns
+1000 rows, std, 2/5
+Elapsed time: 91100.00 ns
+1000 rows, std, 3/5
+Elapsed time: 66700.00 ns
+1000 rows, std, 4/5
+Elapsed time: 70100.00 ns
+1000 rows, std, 5/5
+Elapsed time: 63900.00 ns
+
+END FUNC
+
+1000 rows, count, 1/5
+Elapsed time: 72500.00 ns
+1000 rows, count, 2/5
+Elapsed time: 62900.00 ns
+1000 rows, count, 3/5
+Elapsed time: 57200.00 ns
+1000 rows, count, 4/5
+Elapsed time: 57700.00 ns
+1000 rows, count, 5/5
+Elapsed time: 56000.00 ns
+
+END FUNC
+
+1000 rows, unique, 1/5
+Elapsed time: 222300.00 ns
+1000 rows, unique, 2/5
+Elapsed time: 104400.00 ns
+1000 rows, unique, 3/5
+Elapsed time: 105700.00 ns
+1000 rows, unique, 4/5
+Elapsed time: 97200.00 ns
+1000 rows, unique, 5/5
+Elapsed time: 77800.00 ns
+
+END FUNC
+
+
+END ROW
+
+10000 rows, add, 1/5
+Elapsed time: 571799.00 ns
+10000 rows, add, 2/5
+Elapsed time: 444800.00 ns
+10000 rows, add, 3/5
+Elapsed time: 228399.00 ns
+10000 rows, add, 4/5
+Elapsed time: 199600.00 ns
+10000 rows, add, 5/5
+Elapsed time: 208700.00 ns
+
+END FUNC
+
+10000 rows, mul, 1/5
+Elapsed time: 163900.00 ns
+10000 rows, mul, 2/5
+Elapsed time: 181500.00 ns
+10000 rows, mul, 3/5
+Elapsed time: 195300.00 ns
+10000 rows, mul, 4/5
+Elapsed time: 238300.00 ns
+10000 rows, mul, 5/5
+Elapsed time: 249700.00 ns
+
+END FUNC
+
+10000 rows, cumsum, 1/5
+Elapsed time: 345800.00 ns
+10000 rows, cumsum, 2/5
+Elapsed time: 190900.00 ns
+10000 rows, cumsum, 3/5
+Elapsed time: 154400.00 ns
+10000 rows, cumsum, 4/5
+Elapsed time: 184600.00 ns
+10000 rows, cumsum, 5/5
+Elapsed time: 136800.00 ns
+
+END FUNC
+
+10000 rows, abs, 1/5
+Elapsed time: 83900.00 ns
+10000 rows, abs, 2/5
+Elapsed time: 97400.00 ns
+10000 rows, abs, 3/5
+Elapsed time: 87700.00 ns
+10000 rows, abs, 4/5
+Elapsed time: 84000.00 ns
+10000 rows, abs, 5/5
+Elapsed time: 76700.00 ns
+
+END FUNC
+
+10000 rows, mean, 1/5
+Elapsed time: 257600.00 ns
+10000 rows, mean, 2/5
+Elapsed time: 162000.00 ns
+10000 rows, mean, 3/5
+Elapsed time: 154500.00 ns
+10000 rows, mean, 4/5
+Elapsed time: 102500.00 ns
+10000 rows, mean, 5/5
+Elapsed time: 135000.00 ns
+
+END FUNC
+
+10000 rows, std, 1/5
+Elapsed time: 126200.00 ns
+10000 rows, std, 2/5
+Elapsed time: 119300.00 ns
+10000 rows, std, 3/5
+Elapsed time: 101700.00 ns
+10000 rows, std, 4/5
+Elapsed time: 100700.00 ns
+10000 rows, std, 5/5
+Elapsed time: 90600.00 ns
+
+END FUNC
+
+10000 rows, count, 1/5
+Elapsed time: 80000.00 ns
+10000 rows, count, 2/5
+Elapsed time: 73500.00 ns
+10000 rows, count, 3/5
+Elapsed time: 69700.00 ns
+10000 rows, count, 4/5
+Elapsed time: 68100.00 ns
+10000 rows, count, 5/5
+Elapsed time: 68800.00 ns
+
+END FUNC
+
+10000 rows, unique, 1/5
+Elapsed time: 1219900.00 ns
+10000 rows, unique, 2/5
+Elapsed time: 403900.00 ns
+10000 rows, unique, 3/5
+Elapsed time: 365999.00 ns
+10000 rows, unique, 4/5
+Elapsed time: 375300.00 ns
+10000 rows, unique, 5/5
+Elapsed time: 316500.00 ns
+
+END FUNC
+
+
+END ROW
+
+100000 rows, add, 1/5
+Elapsed time: 938900.00 ns
+100000 rows, add, 2/5
+Elapsed time: 486900.00 ns
+100000 rows, add, 3/5
+Elapsed time: 250000.00 ns
+100000 rows, add, 4/5
+Elapsed time: 177700.00 ns
+100000 rows, add, 5/5
+Elapsed time: 131800.00 ns
+
+END FUNC
+
+100000 rows, mul, 1/5
+Elapsed time: 131400.00 ns
+100000 rows, mul, 2/5
+Elapsed time: 127500.00 ns
+100000 rows, mul, 3/5
+Elapsed time: 173900.00 ns
+100000 rows, mul, 4/5
+Elapsed time: 181800.00 ns
+100000 rows, mul, 5/5
+Elapsed time: 147500.00 ns
+
+END FUNC
+
+100000 rows, cumsum, 1/5
+Elapsed time: 370900.00 ns
+100000 rows, cumsum, 2/5
+Elapsed time: 383700.00 ns
+100000 rows, cumsum, 3/5
+Elapsed time: 314100.00 ns
+100000 rows, cumsum, 4/5
+Elapsed time: 312500.00 ns
+100000 rows, cumsum, 5/5
+Elapsed time: 312700.00 ns
+
+END FUNC
+
+100000 rows, abs, 1/5
+Elapsed time: 68800.00 ns
+100000 rows, abs, 2/5
+Elapsed time: 52200.00 ns
+100000 rows, abs, 3/5
+Elapsed time: 67700.00 ns
+100000 rows, abs, 4/5
+Elapsed time: 63500.00 ns
+100000 rows, abs, 5/5
+Elapsed time: 60600.00 ns
+
+END FUNC
+
+100000 rows, mean, 1/5
+Elapsed time: 190700.00 ns
+100000 rows, mean, 2/5
+Elapsed time: 147000.00 ns
+100000 rows, mean, 3/5
+Elapsed time: 138100.00 ns
+100000 rows, mean, 4/5
+Elapsed time: 136700.00 ns
+100000 rows, mean, 5/5
+Elapsed time: 134500.00 ns
+
+END FUNC
+
+100000 rows, std, 1/5
+Elapsed time: 1068301.00 ns
+100000 rows, std, 2/5
+Elapsed time: 269800.00 ns
+100000 rows, std, 3/5
+Elapsed time: 317200.00 ns
+100000 rows, std, 4/5
+Elapsed time: 247000.00 ns
+100000 rows, std, 5/5
+Elapsed time: 285600.00 ns
+
+END FUNC
+
+100000 rows, count, 1/5
+Elapsed time: 119500.00 ns
+100000 rows, count, 2/5
+Elapsed time: 104300.00 ns
+100000 rows, count, 3/5
+Elapsed time: 100400.00 ns
+100000 rows, count, 4/5
+Elapsed time: 99100.00 ns
+100000 rows, count, 5/5
+Elapsed time: 97700.00 ns
+
+END FUNC
+
+100000 rows, unique, 1/5
+Elapsed time: 2634200.00 ns
+100000 rows, unique, 2/5
+Elapsed time: 2187401.00 ns
+100000 rows, unique, 3/5
+Elapsed time: 2199900.00 ns
+100000 rows, unique, 4/5
+Elapsed time: 2548001.00 ns
+100000 rows, unique, 5/5
+Elapsed time: 2304200.00 ns
+
+END FUNC
+
+
+END ROW
+
+1000000 rows, add, 1/5
+Elapsed time: 2129600.00 ns
+1000000 rows, add, 2/5
+Elapsed time: 1491400.00 ns
+1000000 rows, add, 3/5
+Elapsed time: 1394600.00 ns
+1000000 rows, add, 4/5
+Elapsed time: 1664200.00 ns
+1000000 rows, add, 5/5
+Elapsed time: 1900700.00 ns
+
+END FUNC
+
+1000000 rows, mul, 1/5
+Elapsed time: 1720300.00 ns
+1000000 rows, mul, 2/5
+Elapsed time: 1852400.00 ns
+1000000 rows, mul, 3/5
+Elapsed time: 2011900.00 ns
+1000000 rows, mul, 4/5
+Elapsed time: 1232900.00 ns
+1000000 rows, mul, 5/5
+Elapsed time: 1378100.00 ns
+
+END FUNC
+
+1000000 rows, cumsum, 1/5
+Elapsed time: 6185500.00 ns
+1000000 rows, cumsum, 2/5
+Elapsed time: 4356400.00 ns
+1000000 rows, cumsum, 3/5
+Elapsed time: 3917999.00 ns
+1000000 rows, cumsum, 4/5
+Elapsed time: 4161800.00 ns
+1000000 rows, cumsum, 5/5
+Elapsed time: 4851100.00 ns
+
+END FUNC
+
+1000000 rows, abs, 1/5
+Elapsed time: 913100.00 ns
+1000000 rows, abs, 2/5
+Elapsed time: 965700.00 ns
+1000000 rows, abs, 3/5
+Elapsed time: 856000.00 ns
+1000000 rows, abs, 4/5
+Elapsed time: 670100.00 ns
+1000000 rows, abs, 5/5
+Elapsed time: 528900.00 ns
+
+END FUNC
+
+1000000 rows, mean, 1/5
+Elapsed time: 1091300.00 ns
+1000000 rows, mean, 2/5
+Elapsed time: 1043100.00 ns
+1000000 rows, mean, 3/5
+Elapsed time: 1090500.00 ns
+1000000 rows, mean, 4/5
+Elapsed time: 1131600.00 ns
+1000000 rows, mean, 5/5
+Elapsed time: 1453900.00 ns
+
+END FUNC
+
+1000000 rows, std, 1/5
+Elapsed time: 2307000.00 ns
+1000000 rows, std, 2/5
+Elapsed time: 2170300.00 ns
+1000000 rows, std, 3/5
+Elapsed time: 2349800.00 ns
+1000000 rows, std, 4/5
+Elapsed time: 2247400.00 ns
+1000000 rows, std, 5/5
+Elapsed time: 2199900.00 ns
+
+END FUNC
+
+1000000 rows, count, 1/5
+Elapsed time: 1136500.00 ns
+1000000 rows, count, 2/5
+Elapsed time: 1036400.00 ns
+1000000 rows, count, 3/5
+Elapsed time: 841400.00 ns
+1000000 rows, count, 4/5
+Elapsed time: 838500.00 ns
+1000000 rows, count, 5/5
+Elapsed time: 912200.00 ns
+
+END FUNC
+
+1000000 rows, unique, 1/5
+Elapsed time: 41208899.00 ns
+1000000 rows, unique, 2/5
+Elapsed time: 33201099.00 ns
+1000000 rows, unique, 3/5
+Elapsed time: 33205000.00 ns
+1000000 rows, unique, 4/5
+Elapsed time: 28103999.00 ns
+1000000 rows, unique, 5/5
+Elapsed time: 26948000.00 ns
+
+END FUNC
+
+
+END ROW
+
+10000000 rows, add, 1/5
+Elapsed time: 8638801.00 ns
+10000000 rows, add, 2/5
+Elapsed time: 10327600.00 ns
+10000000 rows, add, 3/5
+Elapsed time: 7112400.00 ns
+10000000 rows, add, 4/5
+Elapsed time: 9334600.00 ns
+10000000 rows, add, 5/5
+Elapsed time: 7801600.00 ns
+
+END FUNC
+
+10000000 rows, mul, 1/5
+Elapsed time: 9278800.00 ns
+10000000 rows, mul, 2/5
+Elapsed time: 8126500.00 ns
+10000000 rows, mul, 3/5
+Elapsed time: 8597700.00 ns
+10000000 rows, mul, 4/5
+Elapsed time: 8447901.00 ns
+10000000 rows, mul, 5/5
+Elapsed time: 9124900.00 ns
+
+END FUNC
+
+10000000 rows, cumsum, 1/5
+Elapsed time: 36589400.00 ns
+10000000 rows, cumsum, 2/5
+Elapsed time: 34512801.00 ns
+10000000 rows, cumsum, 3/5
+Elapsed time: 33677700.00 ns
+10000000 rows, cumsum, 4/5
+Elapsed time: 33732001.00 ns
+10000000 rows, cumsum, 5/5
+Elapsed time: 35135900.00 ns
+
+END FUNC
+
+10000000 rows, abs, 1/5
+Elapsed time: 10766600.00 ns
+10000000 rows, abs, 2/5
+Elapsed time: 12236000.00 ns
+10000000 rows, abs, 3/5
+Elapsed time: 10813001.00 ns
+10000000 rows, abs, 4/5
+Elapsed time: 5486400.00 ns
+10000000 rows, abs, 5/5
+Elapsed time: 6360400.00 ns
+
+END FUNC
+
+10000000 rows, mean, 1/5
+Elapsed time: 12495800.00 ns
+10000000 rows, mean, 2/5
+Elapsed time: 11173400.00 ns
+10000000 rows, mean, 3/5
+Elapsed time: 10999500.00 ns
+10000000 rows, mean, 4/5
+Elapsed time: 10455600.00 ns
+10000000 rows, mean, 5/5
+Elapsed time: 9888001.00 ns
+
+END FUNC
+
+10000000 rows, std, 1/5
+Elapsed time: 19122100.00 ns
+10000000 rows, std, 2/5
+Elapsed time: 19201200.00 ns
+10000000 rows, std, 3/5
+Elapsed time: 19873000.00 ns
+10000000 rows, std, 4/5
+Elapsed time: 19514701.00 ns
+10000000 rows, std, 5/5
+Elapsed time: 19606400.00 ns
+
+END FUNC
+
+10000000 rows, count, 1/5
+Elapsed time: 8501000.00 ns
+10000000 rows, count, 2/5
+Elapsed time: 8688400.00 ns
+10000000 rows, count, 3/5
+Elapsed time: 7823600.00 ns
+10000000 rows, count, 4/5
+Elapsed time: 8644600.00 ns
+10000000 rows, count, 5/5
+Elapsed time: 7813401.00 ns
+
+END FUNC
+
+10000000 rows, unique, 1/5
+Elapsed time: 984942914.00 ns
+10000000 rows, unique, 2/5
+Elapsed time: 1098852421.00 ns
+10000000 rows, unique, 3/5
+Elapsed time: 1107701635.00 ns
+10000000 rows, unique, 4/5
+Elapsed time: 1002298532.00 ns
+10000000 rows, unique, 5/5
+Elapsed time: 1006910532.00 ns
+
+END FUNC
+
+
+END ROW

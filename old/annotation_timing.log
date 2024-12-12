@@ -1,0 +1,272 @@
+Time to annotate 10 rows: 0.74512801 ms +/- 0.07669990 ms
+Time to annotate 100 rows: 0.76855401 ms +/- 0.11194288 ms
+Time to annotate 1000 rows: 0.76462901 ms +/- 0.05274172 ms
+Time to annotate 10000 rows: 0.85354001 ms +/- 0.06782496 ms
+Time to annotate 100000 rows: 1.45605501 ms +/- 0.11361836 ms
+Time to annotate 1000000 rows: 11.59870203 ms +/- 0.78025369 ms
+Time to annotate 10855959 rows: 116.43551161 ms +/- 9.39925928 ms
+**********
+----------DataFrame----------
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Data columns (total 6 columns):
+ #   Column     Dtype  
+---  ------     -----  
+ 0   object_id  int32  
+ 1   mjd        float64
+ 2   passband   int8   
+ 3   flux       float32
+ 4   flux_err   float32
+ 5   detected   bool   
+dtypes: bool(1), float32(2), float64(1), int32(1), int8(1)
+memory usage: 227.8 MB
+None
+
+----------object_id----------
+<class 'pandas.core.series.Series'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Series name: object_id
+Non-Null Count     Dtype
+--------------     -----
+10855958 non-null  int32
+dtypes: int32(1)
+memory usage: 41.4 MB
+None
+
+----------mjd----------
+<class 'pandas.core.series.Series'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Series name: mjd
+Non-Null Count     Dtype  
+--------------     -----  
+10855958 non-null  float64
+dtypes: float64(1)
+memory usage: 82.8 MB
+None
+
+----------passband----------
+<class 'pandas.core.series.Series'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Series name: passband
+Non-Null Count     Dtype
+--------------     -----
+10855958 non-null  int8 
+dtypes: int8(1)
+memory usage: 10.4 MB
+None
+
+----------flux----------
+<class 'pandas.core.series.Series'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Series name: flux
+Non-Null Count     Dtype  
+--------------     -----  
+10855958 non-null  float32
+dtypes: float32(1)
+memory usage: 41.4 MB
+None
+
+----------flux_err----------
+<class 'pandas.core.series.Series'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Series name: flux_err
+Non-Null Count     Dtype  
+--------------     -----  
+10855958 non-null  float32
+dtypes: float32(1)
+memory usage: 41.4 MB
+None
+
+----------detected----------
+<class 'pandas.core.series.Series'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Series name: detected
+Non-Null Count     Dtype
+--------------     -----
+10855958 non-null  bool 
+dtypes: bool(1)
+memory usage: 10.4 MB
+None
+
+**********
+Time to annotate data with 2 bins: 103.20883855 ms +/- 8.35555405 ms
+Time to annotate data with 4 bins: 107.05951617 ms +/- 8.58317143 ms
+Time to annotate data with 8 bins: 116.31109827 ms +/- 9.39671381 ms
+Time to annotate data with 16 bins: 120.46221933 ms +/- 9.29729086 ms
+Time to annotate data with 32 bins: 128.57799831 ms +/- 6.54288475 ms
+Time to annotate data with 64 bins: 142.44619635 ms +/- 6.82821329 ms
+**********
+----------DataFrame----------
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Data columns (total 7 columns):
+ #   Column     Dtype   
+---  ------     -----   
+ 0   object_id  int32   
+ 1   mjd        float64 
+ 2   passband   int8    
+ 3   flux       float32 
+ 4   flux_err   float32 
+ 5   detected   bool    
+ 6   mjd_annot  category
+dtypes: bool(1), category(1), float32(2), float64(1), int32(1), int8(1)
+memory usage: 238.1 MB
+None
+
+----------Annotation Column----------
+<class 'pandas.core.series.Series'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Series name: mjd_annot
+Non-Null Count     Dtype   
+--------------     -----   
+10855958 non-null  category
+dtypes: category(1)
+memory usage: 10.4 MB
+None
+
+Categorical overhead:  140 bytes
+----------DataFrame----------
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Data columns (total 7 columns):
+ #   Column     Dtype   
+---  ------     -----   
+ 0   object_id  int32   
+ 1   mjd        float64 
+ 2   passband   int8    
+ 3   flux       float32 
+ 4   flux_err   float32 
+ 5   detected   bool    
+ 6   mjd_annot  category
+dtypes: bool(1), category(1), float32(2), float64(1), int32(1), int8(1)
+memory usage: 238.1 MB
+None
+
+----------Annotation Column----------
+<class 'pandas.core.series.Series'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Series name: mjd_annot
+Non-Null Count     Dtype   
+--------------     -----   
+10855958 non-null  category
+dtypes: category(1)
+memory usage: 10.4 MB
+None
+
+Categorical overhead:  236 bytes
+----------DataFrame----------
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Data columns (total 7 columns):
+ #   Column     Dtype   
+---  ------     -----   
+ 0   object_id  int32   
+ 1   mjd        float64 
+ 2   passband   int8    
+ 3   flux       float32 
+ 4   flux_err   float32 
+ 5   detected   bool    
+ 6   mjd_annot  category
+dtypes: bool(1), category(1), float32(2), float64(1), int32(1), int8(1)
+memory usage: 238.1 MB
+None
+
+----------Annotation Column----------
+<class 'pandas.core.series.Series'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Series name: mjd_annot
+Non-Null Count     Dtype   
+--------------     -----   
+10855958 non-null  category
+dtypes: category(1)
+memory usage: 10.4 MB
+None
+
+Categorical overhead:  428 bytes
+----------DataFrame----------
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Data columns (total 7 columns):
+ #   Column     Dtype   
+---  ------     -----   
+ 0   object_id  int32   
+ 1   mjd        float64 
+ 2   passband   int8    
+ 3   flux       float32 
+ 4   flux_err   float32 
+ 5   detected   bool    
+ 6   mjd_annot  category
+dtypes: bool(1), category(1), float32(2), float64(1), int32(1), int8(1)
+memory usage: 238.1 MB
+None
+
+----------Annotation Column----------
+<class 'pandas.core.series.Series'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Series name: mjd_annot
+Non-Null Count     Dtype   
+--------------     -----   
+10855958 non-null  category
+dtypes: category(1)
+memory usage: 10.4 MB
+None
+
+Categorical overhead:  812 bytes
+----------DataFrame----------
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Data columns (total 7 columns):
+ #   Column     Dtype   
+---  ------     -----   
+ 0   object_id  int32   
+ 1   mjd        float64 
+ 2   passband   int8    
+ 3   flux       float32 
+ 4   flux_err   float32 
+ 5   detected   bool    
+ 6   mjd_annot  category
+dtypes: bool(1), category(1), float32(2), float64(1), int32(1), int8(1)
+memory usage: 238.1 MB
+None
+
+----------Annotation Column----------
+<class 'pandas.core.series.Series'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Series name: mjd_annot
+Non-Null Count     Dtype   
+--------------     -----   
+10855958 non-null  category
+dtypes: category(1)
+memory usage: 10.4 MB
+None
+
+Categorical overhead:  1584 bytes
+----------DataFrame----------
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Data columns (total 7 columns):
+ #   Column     Dtype   
+---  ------     -----   
+ 0   object_id  int32   
+ 1   mjd        float64 
+ 2   passband   int8    
+ 3   flux       float32 
+ 4   flux_err   float32 
+ 5   detected   bool    
+ 6   mjd_annot  category
+dtypes: bool(1), category(1), float32(2), float64(1), int32(1), int8(1)
+memory usage: 238.1 MB
+None
+
+----------Annotation Column----------
+<class 'pandas.core.series.Series'>
+RangeIndex: 10855958 entries, 0 to 10855957
+Series name: mjd_annot
+Non-Null Count     Dtype   
+--------------     -----   
+10855958 non-null  category
+dtypes: category(1)
+memory usage: 10.4 MB
+None
+
+Categorical overhead:  3128 bytes
